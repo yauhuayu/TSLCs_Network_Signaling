@@ -1,0 +1,146 @@
+ann.probe	tis.cnt	tis	lv.cnt	lv	fdf.pCsc	fdf.EscCsc	g.id.num	out.gid	g.sym	g.chr	n.ann.tsp	g.name	tcnd	cor.mean.csc	cor.mean.p	cor.mean.Esc
+209714_s_at	4	lung atrt breast sf	"1,1,1,1"	"nov_set.a,nov_set.a,nov_set.a,nov_set.a"	-0.275228601	0.596317569	1	1033	CDKN3	chr14q22	23	cyclin-dependent kinase inhibitor 3	com	0.240947586	0.229103405	0.381484893
+204286_s_at	4	lung atrt oral gbm	"1,1,1,1"	"nov_set.a,nov_set.a,nov_set.a,nov_set.a"	0.817794845	-0.088689601	1	5366	PMAIP1	chr18q21.32	4	phorbol-12-myristate-13-acetate-induced protein 1	gbm	0.238771244	0.318772678	0.475022543
+204492_at	4	lung atrt breast sf	"1,1,1,1"	"nov_set.a,nov_set.a,nov_set.a,nov_set.a"	-0.30396408	0.253511019	1	9824	ARHGAP11A	chr15q13.2	2	Rho GTPase activating protein 11A	cn	0.231861191	0.330347435	0.453623565
+206875_s_at	4	lung oral breast gbm	"1,1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc,g.lv3.csc"	0.335795275	1.466761735	1	9748	SLK	chr10q25.1	6	STE20-like kinase (yeast)	x	0.194989101	0.324661281	0.461113365
+227933_at	3	lung atrt breast	"1,1,1"	"lv_set.a,lv_set.a,lv_set.a"	0.332287395	-1.46033095	1	84894	LINGO1	chr15q24.3	5	leucine rich repeat and Ig domain containing 1	snail	0.264839625	0.261547773	0.275058497
+204285_s_at	3	lung oral gbm	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.892757243	0.092519809	1	5366	PMAIP1	chr18q21.32	6	phorbol-12-myristate-13-acetate-induced protein 1	com	0.248153121	0.26651921	0.463384893
+214591_at	3	lung atrt breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-0.069731734	-0.487326439	1	56062	KLHL4	chrXq21.3	3	kelch-like 4 (Drosophila)	atrt	0.246023301	0.26170965	0.182758969
+204540_at	3	lung atrt breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.358699167	1.347187063	1	1917	EEF1A2	chr20q13.3	5	eukaryotic translation elongation factor 1 alpha 2	atrt	0.224546201	0.242445162	0.305993749
+220060_s_at	3	lung breast sf	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-0.147882935	-0.002032825	1	55010	C12orf48	chr12q23.2	3	chromosome 12 open reading frame 48	atrt	0.255856936	0.324164554	0.42977385
+243857_at	3	lung oral gbm	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.790957911	1.266258517	1	9643	MORF4L2	chrXq22	1	Mrgx mRNA for MRGX	atrt	0.190202814	0.157984012	0.308537482
+226958_s_at	3	lung breast gbm	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-0.558713911	-0.803390519	1	400569	MED11	chr17p13.2	3	mediator complex subunit 11	atrt	0.188091413	0.203143194	0.386702179
+219787_s_at	3	lung oral breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.175607613	0.517111372	1	1894	ECT2	chr3q26.1-q26.2	6	epithelial cell transforming sequence 2 oncogene	atrt	0.224747734	0.326065104	0.410949764
+231927_at	3	lung atrt gbm	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.58700166	1.667078249	1	22926	ATF6	chr1q22-q23	1	ATF family member ATF6 (ATF6)	cn	0.219216467	0.324757211	0.216383692
+203891_s_at	3	lung atrt breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.169866749	-1.16822461	1	1613	DAPK3	chr19p13.3	6	death-associated protein kinase 3	snail	0.210066227	0.229740014	0.344067278
+215342_s_at	3	lung oral breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.017249131	-1.324347226	1	9910	RABGAP1L	chr1q24	12	RAB GTPase activating protein 1-like	lg	0.222333647	0.285108631	0.353140776
+217968_at	3	lung gbm sf	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-0.791470219	0.116417206	1	7260	TSSC1	chr2p25.3	7	tumor suppressing subtransferable candidate 1	lg	0.226672324	0.285922035	0.369091468
+200659_s_at	3	lung colon sf	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-1.219656257	-1.093148188	1	5245	PHB	chr17q21	2	prohibitin	lg	0.217516527	0.280105291	0.3175844
+208654_s_at	3	lung oral breast	"1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc"	0.173019134	1.529733181	1	8763	CD164	chr6q21	12	"CD164 molecule, sialomucin"	x	0.217652118	0.291468227	0.296498014
+222857_s_at	2	lung breast	"1,1"	"lv_set.a,lv_set.a"	0.349627859	-1.187553103	1	27345	KCNMB4	chr12q	6	"potassium large conductance calcium-activated channel, subfamily M, beta member 4"	com	0.242056045	0.212714269	0.436906716
+214548_x_at	2	lung breast	"2,2"	"lv_set.a g.lv3.csc,lv_set.a g.lv3.csc"	-0.015683673	1.071604723	1	2778	GNAS	chr20q13.3	31	GNAS complex locus	atrt	0.222229934	0.199268392	0.447430276
+219375_at	2	lung breast	"2,2"	"lv_set.a g.lv3.csc,lv_set.a g.lv3.csc"	0.484857747	1.256863233	1	10390	CEPT1	chr1p13.3	8	choline/ethanolamine phosphotransferase 1	lg	0.243741638	0.277712608	0.38940469
+221591_s_at	2	lung atrt	"1,1"	"nov_set.a,nov_set.a"	-0.739577474	-1.195737976	1	54478	FAM64A	chr17p13.2	6	"family with sequence similarity 64, member A"	com	0.222062021	0.198889154	0.390465103
+208737_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.762431887	0.286929612	1	9550	ATP6V1G1	chr9q32	1	"ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1"	gbm	0.154486652	0.253022861	0.277507556
+217863_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.38979158	0.447352594	1	8554	PIAS1	chr15q	11	"protein inhibitor of activated STAT, 1"	gbm	0.205316625	0.328760437	0.453850878
+1554105_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.057471682	0.756163612	1	84548	TMEM185A	chrXq28	5	transmembrane protein 185A	gbm	0.225482457	0.261975285	0.365651536
+239570_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.614075751	-0.878095661	1	5861	RAB1A	chr2p14	5	"GTP-binding protein (RAB1A) mRNA, 3' untranslated region"	atrt	0.220986884	0.313513006	0.416927174
+225827_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.29091523	0.953071566	1	27161	EIF2C2	chr8q24	2	"eukaryotic translation initiation factor 2C, 2"	atrt	0.252869344	0.271025055	0.248522661
+205091_x_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.322937656	1.093097261	1	5965	RECQL	chr12p12	7	RecQ protein-like (DNA helicase Q1-like)	atrt	0.21730026	0.336830599	0.475119238
+224844_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.443493804	0.947940436	1	57606	SLAIN2	chr4p12	3	"SLAIN motif family, member 2"	atrt	0.263074965	0.350555224	0.414422029
+201427_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.056739198	-1.062961061	1	6414	SEPP1	chr5q31	7	"selenoprotein P, plasma, 1"	atrt	0.238999373	0.215839045	0.433525665
+201247_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.656182494	0.123011621	1	6721	SREBF2	chr22q13	1	sterol regulatory element binding transcription factor 2	atrt	0.226511648	0.270934935	0.370444439
+221499_s_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	0.64421139	1.040706746	1	8675	STX16	chr20q13.32	10	syntaxin 16	atrt	0.241395453	0.279735886	0.258523521
+200981_x_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.030748862	0.937751049	1	2778	GNAS	chr20q13.3	33	GNAS complex locus	atrt	0.230485255	0.212899062	0.45076313
+223156_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.511095381	0.053346858	1	51649	MRPS23	chr17q22-q23	4	mitochondrial ribosomal protein S23	atrt	0.224153139	0.235315722	0.305328816
+243629_x_at	2	lung gbm	"1,1"	"nov_set.a,nov_set.a"	0.253285834	0.504827141	1	4241	MFI2	chr3q28-q29	1	antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5	atrt	0.239301006	0.253314984	0.325796933
+210221_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.098535773	-1.108829163	1	1136	CHRNA3	chr15q24	8	"cholinergic receptor, nicotinic, alpha 3"	atrt	0.238804056	0.244684877	0.376572973
+200780_x_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.031579263	0.911858387	1	2778	GNAS	chr20q13.3	29	GNAS complex locus	atrt	0.225551679	0.207737536	0.449777128
+206699_x_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.073644477	-1.25158024	1	4861	NPAS1	chr19q13.2-q13.3	1	neuronal PAS domain protein 1	atrt	0.262009753	0.239718472	0.262814118
+214097_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.551930421	-0.497595161	1	6227	RPS21	chr20q13.3	2	ribosomal protein S21	atrt	0.215670842	0.213094992	0.334907348
+215259_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.386923006	0.208396881	1	199731	CADM4	chr19q13.31	3	cell adhesion molecule 4	atrt	0.235712923	0.221829417	0.2133184
+213344_s_at	2	lung gbm	"1,1"	"nov_set.a,nov_set.a"	-0.843536633	-0.928292985	1	3014	H2AFX	chr11q23.2-q23.3	103	H2A.X mRNA encoding histone H2A.X	atrt	0.209080664	0.264998251	0.329959726
+226450_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.054346297	-0.956725186	1	3643	INSR	chr19p13.3-p13.2	4	insulin receptor	atrt	0.225426433	0.182697369	0.361592942
+1552953_a_at	2	lung oral	"1,1"	"nov_set.a,nov_set.a"	-0.796177755	-0.770341555	1	4761	NEUROD2	chr17q12	4	neurogenic differentiation 2	atrt	0.235716998	0.277995148	0.365726453
+212273_x_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.026361616	0.943090758	1	2778	GNAS	chr20q13.3	29	GNAS complex locus	atrt	0.22620509	0.205403978	0.450579389
+227706_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.657142122	0.667002702	1	84501	SPIRE2	chr16q24	6	spire homolog 2 (Drosophila)	atrt	0.255964775	0.17921034	0.235900508
+201165_s_at	2	lung gbm	"1,1"	"nov_set.a,nov_set.a"	0.368476419	0.597726174	1	9698	PUM1	chr1p35.2	6	pumilio homolog 1 (Drosophila)	atrt	0.19894309	0.181920579	0.428318115
+205290_s_at	2	lung gbm	"1,1"	"nov_set.a,nov_set.a"	0.659091506	-0.398431618	1	650	BMP2	chr20p12	2	bone morphogenetic protein 2	br	0.195493482	0.252924367	0.268572593
+202094_at	2	lung atrt	"1,1"	"nov_set.a,nov_set.a"	-0.996814606	-0.219918509	1	332	BIRC5	chr17q25	6	baculoviral IAP repeat-containing 5	cn	0.24268511	0.236723487	0.333761325
+205578_at	2	lung atrt	"1,1"	"nov_set.a,nov_set.a"	0.420181979	-0.736077008	1	4920	ROR2	chr9q22	4	receptor tyrosine kinase-like orphan receptor 2	cn	0.226117754	0.212034791	0.244971658
+219347_at	2	lung atrt	"1,1"	"nov_set.a,nov_set.a"	-0.311371406	-1.300496041	1	55270	NUDT15	chr13q14.2	4	nudix (nucleoside diphosphate linked moiety X)-type motif 15	cn	0.240270924	0.221175878	0.330114842
+226216_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.03749348	-0.824597448	1	3643	INSR	chr19p13.3-p13.2	4	insulin receptor	snail	0.24146678	0.215558706	0.399554581
+209503_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.689304758	-0.256011585	1	5705	PSMC5	chr17q23-q25	15	"proteasome (prosome, macropain) 26S subunit, ATPase, 5"	snail	0.24061875	0.207866767	0.394211053
+225459_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.461365041	0.338815892	1	154810	AMOTL1	chr11q14.3	3	angiomotin like 1	snail	0.218035367	0.249936714	0.352059026
+223049_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.242992579	0.613753661	1	2885	GRB2	chr17q24-q25	9	growth factor receptor-bound protein 2	snail	0.266613577	0.23479145	0.415482325
+228988_at	2	lung colon	"1,1"	"nov_set.a,nov_set.a"	0.081026869	-0.57924068	1	7552	ZNF711	chrXq21.1-q21.2	6	zinc finger protein 711	sf	0.287495102	0.298318304	0.483358808
+217805_at	2	lung colon	"1,1"	"nov_set.a,nov_set.a"	0.224484872	-0.014232497	1	3609	ILF3	chr19p13.2	1	"interleukin enhancer binding factor 3, 90kDa"	sf	0.239546038	0.227581301	0.257474904
+211498_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.612981138	-1.293002375	1	4824	NKX3-1	chr8p21	11	NK3 homeobox 1	lg	0.215188996	0.304934699	0.405440904
+1552263_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.355761603	-0.481729004	1	5594	MAPK1	chr22q11.2|22q11.21	3	mitogen-activated protein kinase 1	lg	0.222304017	0.230361186	0.396952389
+212981_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	0.284349472	0.740666585	1	9747	FAM115A	chr7q35	1	"family with sequence similarity 115, member A"	lg	0.255137556	0.216090969	0.41403028
+203270_at	2	lung sf	"1,1"	"nov_set.a,nov_set.a"	-0.885828289	0.189076347	2	1841   727761	DTYMK /// LOC727761	chr2q37.3	7	deoxythymidylate kinase (thymidylate kinase) /// similar to Deoxythymidylate kinase (thymidylate kinase)	lg	0.203972332	0.266601672	0.355162432
+1553984_s_at	2	lung breast	"1,1"	"nov_set.a,nov_set.a"	-0.797664826	0.469850158	2	1841   727761	DTYMK /// LOC727761	chr2q37.3	9	deoxythymidylate kinase (thymidylate kinase) /// similar to Deoxythymidylate kinase (thymidylate kinase)	lg	0.213875472	0.252739634	0.39866106
+219651_at	2	lung breast	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.004158458	-1.89649558	1	55211	DPPA4	chr3q13.13	2	developmental pluripotency associated 4	x	0.182054477	0.183443525	0.446122689
+206012_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.01558172	-1.756053315	1	7044	LEFTY2	chr1q42.1	6	left-right determination factor 2	x	0.190603428	0.314166541	0.385513881
+204631_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.24551703	-1.572550539	1	4620	MYH2	chr17p13.1	5	"myosin, heavy chain 2, skeletal muscle, adult"	x	0.19891123	0.213526672	0.234151711
+204548_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.171699229	-1.660922851	1	6770	STAR	chr8p11.2	8	steroidogenic acute regulatory protein	x	0.183034422	0.173259178	0.353807805
+211858_x_at	2	lung breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.021908414	1.065288056	1	2778	GNAS	chr20q13.3	22	GNAS complex locus	x	0.201732811	0.181551263	0.453920686
+205011_at	2	lung colon	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.125484675	-1.665340143	1	4013	VWA5A	chr11q23	9	von Willebrand factor A domain containing 5A	x	0.236944212	0.268470204	0.404606044
+216967_at	2	lung gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.297404491	-1.56945649	1	2596	GAP43	chr3q13.1-q13.2	1	growth associated protein 43	x	0.165460543	0.237390287	0.264222893
+228252_at	2	lung colon	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.654821221	-1.659671209	1	80119	PIF1	chr15q22.31	9	PIF1 5'-to-3' DNA helicase homolog (S. cerevisiae)	x	0.187182646	0.235799033	0.389204126
+238542_at	1	lung	2	lv_set.a g.lv6.csc.Esc	0.436540154	1.973463103	1	80328	ULBP2	chr6q25	5	UL16 binding protein 2	atrt	0.25468029	0.226134669	0.218078162
+206912_at	1	lung	1	lv_set.a	0.063776366	0.63185579	1	2304	FOXE1	chr9q22	3	forkhead box E1 (thyroid transcription factor 2)	atrt	0.238622845	0.261311193	0.389236622
+201971_s_at	1	lung	2	lv_set.a g.lv3.csc	0.4005928	1.5327599	1	523	ATP6V1A	chr3q13.2-q13.31	6	"ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A"	atrt	0.26550623	0.26815853	0.363297491
+205436_s_at	1	lung	1	lv_set.a	-1.013193071	0.035206941	1	3014	H2AFX	chr11q23.2-q23.3	5	"H2A histone family, member X"	atrt	0.233017083	0.244988075	0.339155806
+228213_at	1	lung	1	lv_set.a	-0.46720591	0.609328609	1	55766	H2AFJ	chr12p12	1	"H2A histone family, member J"	atrt	0.195380121	0.223375755	0.189631422
+244133_at	1	lung	1	lv_set.a	0.6147827	-0.764868226	1	25862	USP49	chr6p21	1	ubiquitin specific peptidase 49	atrt	0.207049308	0.21040596	0.329923401
+209864_at	1	lung	2	lv_set.a g.lv7.ALL	0.08161114	-1.655416383	1	23401	FRAT2	chr10q24.1	4	frequently rearranged in advanced T-cell lymphomas 2	br	0.214887623	0.260874377	0.270910878
+207914_x_at	1	lung	2	lv_set.a g.lv3.csc	-0.132208304	-1.261895163	1	2128	EVX1	chr7p15-p14	4	even-skipped homeobox 1	br	0.197721158	0.26861475	0.429110688
+213849_s_at	1	lung	2	lv_set.a g.lv5.p.csc	-0.146091664	-1.762759969	1	5521	PPP2R2B	chr5q31-q32	17	"protein phosphatase 2 (formerly 2A), regulatory subunit B, beta isoform"	snail	0.190682994	0.234890563	0.456628407
+205043_at	1	lung	1	nov_set.a	-0.750405479	-0.419242971	1	1080	CFTR	chr7q31.2	2	"cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)"	com	0.22078502	0.28794983	0.369938086
+211713_x_at	1	lung	1	nov_set.a	-0.652036147	0.683369749	1	9768	KIAA0101	chr15q22.31	5	KIAA0101	com	0.2357205	0.259110632	0.329033676
+203978_at	1	lung	1	nov_set.a	-0.617722681	-0.138875229	1	4682	NUBP1	chr16p13.13	6	"nucleotide binding protein 1 (MinD homolog, E. coli)"	com	0.218727197	0.233698607	0.421636982
+201236_s_at	1	lung	1	nov_set.a	0.031756844	0.603657545	1	7832	BTG2	chr1q32	4	"BTG family, member 2"	atrt	0.20485551	0.207743178	0.219144607
+228851_s_at	1	lung	1	nov_set.a	-0.10091038	0.492359899	1	2029	ENSA	chr1q21.2	22	endosulfine alpha	atrt	0.262518196	0.28662184	0.305118562
+208805_at	1	lung	1	nov_set.a	-0.212189803	0.194266287	2	5687   9692	KIAA0391 /// PSMA6	chr14q13 /// chr14q13.2	11	"KIAA0391 /// proteasome (prosome, macropain) subunit, alpha type, 6"	atrt	0.209664012	0.191881437	0.356953888
+227271_at	1	lung	1	nov_set.a	0.081250183	-1.262732513	1	2256	FGF11	chr17p13.1	4	fibroblast growth factor 11	atrt	0.216423503	0.194663168	0.328332912
+224130_s_at	1	lung	1	nov_set.a	-0.364470248	0.462904214	1	10011	SRA1	chr5q31.3	7	steroid receptor RNA activator 1	atrt	0.22207644	0.265653724	0.387714373
+210969_at	1	lung	1	nov_set.a	0.326341953	0.8522212	1	5586	PKN2	chr1p22.2	1	protein kinase N2	atrt	0.234022393	0.213271261	0.211473702
+224062_x_at	1	lung	1	nov_set.a	-0.315058696	-0.837046564	1	9622	KLK4	chr19q13.41	3	kallikrein-related peptidase 4	atrt	0.236711431	0.32013343	0.363017579
+213790_at	1	lung	1	nov_set.a	0.108742889	0.485584887	1	8038	ADAM12	chr10q26.3	1	ADAM metallopeptidase domain 12	atrt	0.264509508	0.249908765	0.220653118
+226212_s_at	1	lung	1	nov_set.a	0.145780843	-0.573744096	1	3643	INSR	chr19p13.3-p13.2	4	insulin receptor	atrt	0.230973963	0.211316754	0.371481894
+208216_at	1	lung	1	nov_set.a	0.258037549	1.064681934	1	1748	DLX4	chr17q21.33	7	distal-less homeobox 4	atrt	0.238031298	0.192055546	0.183268798
+1553963_at	1	lung	1	nov_set.a	-0.57654308	-0.240073028	1	388	RHOB	chr2p24	4	"ras homolog gene family, member B"	atrt	0.15858256	0.183861339	0.276777013
+218807_at	1	lung	1	nov_set.a	-0.005367289	-0.160778566	1	10451	VAV3	chr1p13.3	5	vav 3 guanine nucleotide exchange factor	atrt	0.242431419	0.228972354	0.395050209
+213943_at	1	lung	1	nov_set.a	0.319560235	0.246609482	1	7291	TWIST1	chr7p21.2	2	twist homolog 1 (Drosophila)	atrt	0.277738889	0.278573146	0.335018426
+1554680_s_at	1	lung	1	nov_set.a	-0.47783867	-0.768315598	1	3788	KCNS2	chr8q22	4	"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 2"	atrt	0.185263911	0.226970793	0.385001944
+230425_at	1	lung	1	nov_set.a	0.170039393	-0.651546736	1	2047	EPHB1	chr3q21-q23	3	EPH receptor B1	atrt	0.283329717	0.26724102	0.328064706
+203037_s_at	1	lung	1	nov_set.a	0.193430132	0.601584447	1	9788	MTSS1	chr8p22	6	metastasis suppressor 1	atrt	0.168584665	0.216710314	0.383114071
+227958_s_at	1	lung	1	nov_set.a	-0.066644499	-0.31050837	1	2934	GSN	chr9q33	30	"CDNA FLJ38961 fis, clone NT2RI2000276, highly similar to Gelsolin precursor"	atrt	0.187319462	0.20215691	0.389055497
+207464_at	1	lung	1	nov_set.a	0.031754504	0.586328656	1	10768	AHCYL1	chr1p13.2	1	S-adenosylhomocysteine hydrolase-like 1	atrt	0.249653697	0.165205021	0.277108814
+208704_x_at	1	lung	1	nov_set.a	0.103659922	-0.230170353	1	334	APLP2	chr11q23-q25|11q24	7	amyloid beta (A4) precursor-like protein 2	atrt	0.235924232	0.189866809	0.342551515
+202203_s_at	1	lung	1	nov_set.a	0.345518132	0.623017374	1	267	AMFR	chr16q21	2	autocrine motility factor receptor	atrt	0.273773759	0.265511521	0.365318359
+201639_s_at	1	lung	1	nov_set.a	0.065009507	0.452717864	1	29894	CPSF1	chr8q24.23	5	"cleavage and polyadenylation specific factor 1, 160kDa"	atrt	0.240664222	0.229770586	0.384948774
+238682_at	1	lung	1	nov_set.a	-0.537658476	0.387286631	1	257236	CCDC96	chr4p16.1	2	coiled-coil domain containing 96	atrt	0.236281545	0.179024736	0.417635039
+208248_x_at	1	lung	1	nov_set.a	0.198931975	0.002497662	1	334	APLP2	chr11q23-q25|11q24	10	amyloid beta (A4) precursor-like protein 2	atrt	0.228825704	0.185312797	0.337106093
+201879_at	1	lung	1	nov_set.a	0.396751736	0.56130392	1	25820	ARIH1	chr15q24	2	"ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)"	atrt	0.245625287	0.243799669	0.282615548
+213276_at	1	lung	1	nov_set.a	0.024836078	-0.240429125	1	816	CAMK2B	chr22q12|7p14.3-p14.1	1	calcium/calmodulin-dependent protein kinase II beta	atrt	0.190888993	0.172699518	0.408822323
+224864_at	1	lung	1	nov_set.a	-0.444476569	0.349799918	1	10011	SRA1	chr5q31.3	3	steroid receptor RNA activator 1	atrt	0.215453581	0.245910649	0.383435106
+232846_s_at	1	lung	1	nov_set.a	0.104417256	-0.275307497	1	64072	CDH23	chr10q21-q22	14	cadherin-like 23	atrt	0.185488387	0.248597299	0.208482104
+219203_at	1	lung	1	nov_set.a	-0.634850813	-0.05550798	1	51016	FAM158A	chr14q11.2	4	"family with sequence similarity 158, member A"	atrt	0.245874957	0.267820678	0.392980788
+223772_s_at	1	lung	1	nov_set.a	-0.238152241	0.554856193	1	25963	TMEM87A	chr15q15.1	1	transmembrane protein 87A	atrt	0.219648401	0.303759297	0.312717696
+208703_s_at	1	lung	1	nov_set.a	0.160217987	0.494593251	1	334	APLP2	chr11q23-q25|11q24	10	amyloid beta (A4) precursor-like protein 2	atrt	0.235514945	0.202543807	0.369351946
+229397_s_at	1	lung	1	nov_set.a	-0.282962393	0.814903292	1	2909	GRLF1	chr19q13.3	17	"CDNA FLJ56603 complete cds, highly similar to Glucocorticoid receptor DNA-binding factor 1"	atrt	0.242339799	0.260972296	0.33401523
+201733_at	1	lung	1	nov_set.a	0.211614824	0.900970236	1	1182	CLCN3	chr4q33	5	chloride channel 3	atrt	0.227585511	0.308762467	0.405188898
+209715_at	1	lung	1	nov_set.a	-0.534017606	-0.100172788	1	23468	CBX5	chr12q13.13	9	"chromobox homolog 5 (HP1 alpha homolog, Drosophila)"	atrt	0.238613768	0.263702614	0.390412439
+212918_at	1	lung	1	nov_set.a	0.237303739	0.433981342	1	5965	RECQL	chr12p12	2	RecQ protein-like (DNA helicase Q1-like)	atrt	0.22859905	0.335139374	0.484605162
+225077_at	1	lung	1	nov_set.a	0.540814937	0.852761382	1	1106	CHD2	chr15q26	2	chromodomain helicase DNA binding protein 2	atrt	0.2407564	0.301723453	0.431789601
+216609_at	1	lung	1	nov_set.a	0.04757852	0.109803659	1	7295	TXN	chr9q31	1	Full length insert cDNA clone YI46D09	atrt	0.228276544	0.229104444	0.299699732
+222530_s_at	1	lung	1	nov_set.a	0.068320183	0.599314463	1	8195	MKKS	chr20p12	9	McKusick-Kaufman syndrome	atrt	0.214057293	0.224883183	0.344423719
+202164_s_at	1	lung	1	nov_set.a	0.185691875	0.867848809	1	9337	CNOT8	chr5q31-q33	7	"CCR4-NOT transcription complex, subunit 8"	atrt	0.197457453	0.222206403	0.384190339
+205251_at	1	lung	1	nov_set.a	-0.216775817	0.496618591	1	8864	PER2	chr2q37.3	3	period homolog 2 (Drosophila)	atrt	0.233646796	0.18321429	0.416965723
+214474_at	1	lung	1	nov_set.a	0.355500624	-0.646167982	1	5565	PRKAB2	chr1q21.1	4	"protein kinase, AMP-activated, beta 2 non-catalytic subunit"	atrt	0.239567229	0.282773471	0.235915
+203201_at	1	lung	1	nov_set.a	-0.253832395	-0.310987141	1	5373	PMM2	chr16p13.3-p13.2	5	phosphomannomutase 2	atrt	0.216601601	0.2130754	0.332564477
+206794_at	1	lung	1	nov_set.a	-0.035414519	-0.860598205	1	2066	ERBB4	chr2q33.3-q34	4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	atrt	0.200198795	0.17333585	0.435608149
+201248_s_at	1	lung	1	nov_set.a	0.537925259	0.385187539	1	6721	SREBF2	chr22q13	6	sterol regulatory element binding transcription factor 2	atrt	0.240853382	0.305076168	0.359040953
+200094_s_at	1	lung	1	nov_set.a	0.090178172	0.376509075	1	1938	EEF2	chr19pter-q12	2	eukaryotic translation elongation factor 2	br	0.244064097	0.235338067	0.418121653
+213030_s_at	1	lung	1	nov_set.a	-0.073634776	0.795069117	1	5362	PLXNA2	chr1q32.2	6	plexin A2	snail	0.236645914	0.238383795	0.291567258
+206069_s_at	1	lung	1	nov_set.a	0.179927437	-0.437797099	1	33	ACADL	chr2q34-q35	4	"acyl-Coenzyme A dehydrogenase, long chain"	snail	0.238442747	0.260280698	0.305394296
+231930_at	1	lung	1	nov_set.a	0.511594236	0.109314678	1	55531	ELMOD1	chr11q22.3	5	ELMO/CED-12 domain containing 1	lg	0.249179242	0.183022173	0.433766633
+230318_at	1	lung	1	nov_set.a	-0.10335441	0.359383377	1	5265	SERPINA1	chr14q32.1	11	"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1"	lg	0.211007924	0.218791942	0.366843886
+202408_s_at	1	lung	1	nov_set.a	-0.577858723	-0.230976814	1	26121	PRPF31	chr19q13.42	3	PRP31 pre-mRNA processing factor 31 homolog (S. cerevisiae)	lg	0.248067703	0.222106016	0.188339376
+226882_x_at	1	lung	1	nov_set.a	-0.702866446	-0.171484021	1	10785	WDR4	chr21q22.3	7	WD repeat domain 4	lg	0.260387963	0.301041744	0.28772772
+209971_x_at	1	lung	1	nov_set.a	-0.76417081	-0.794658325	1	7965	JTV1	chr7p22	8	JTV1 gene	lg	0.224879799	0.194967686	0.407661561
+211762_s_at	1	lung	1	nov_set.a	-0.450958331	-0.42221666	2	3838   728860	KPNA2 /// LOC728860	chr17q24.2	12	"karyopherin alpha 2 (RAG cohort 1, importin alpha 1) /// karyopherin alpha-2 subunit like"	lg	0.264364528	0.237596885	0.426168185
+210000_s_at	1	lung	1	nov_set.a	-0.536091131	-0.31545555	1	8651	SOCS1	chr16p13.13	4	suppressor of cytokine signaling 1	lg	0.188994417	0.221176628	0.372054154
+218227_at	1	lung	1	nov_set.a	-0.783295343	-0.621632674	1	10101	NUBP2	chr16p13.3	1	"nucleotide binding protein 2 (MinD homolog, E. coli)"	lg	0.203653821	0.256427463	0.2847106
+220536_at	1	lung	1	g.lv7.ALL	-0.26559127	-2.038148611	1	55237	C14orf115	chr14q24.3	3	chromosome 14 open reading frame 115	x	0.250161518	0.199306381	0.343859857
+221933_at	1	lung	1	g.lv7.ALL	-0.111800438	-1.96465661	1	57502	NLGN4X	chrXp22.32-p22.31	5	"neuroligin 4, X-linked"	x	0.241041663	0.276623015	0.447564308
+202484_s_at	1	lung	1	g.lv7.ALL	0.042601088	2.026676349	1	8932	MBD2	chr18q21	5	methyl-CpG binding domain protein 2	x	0.244664216	0.197141993	0.232343006
+216831_s_at	1	lung	1	g.lv5.p.csc	0.046246994	-1.620816055	1	862	RUNX1T1	chr8q22	16	"runt-related transcription factor 1; translocated to, 1 (cyclin D-related)"	x	0.231449885	0.2226965	0.332969791
+210198_s_at	1	lung	1	g.lv5.p.csc	-0.076402093	-1.85648932	1	5354	PLP1	chrXq22	9	proteolipid protein 1	x	0.201730298	0.234596131	0.408246099
+203102_s_at	1	lung	1	g.lv5.p.csc	0.003880074	1.506217577	1	4247	MGAT2	chr14q21	2	"mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase"	x	0.196229372	0.212004688	0.370552895
+226143_at	1	lung	1	g.lv5.p.csc	0.013781579	1.842035943	1	10743	RAI1	chr17p11.2	3	retinoic acid induced 1	x	0.22133996	0.175303203	0.334482321
+205720_at	1	lung	1	g.lv3.csc	-0.340581884	-1.457473558	1	5443	POMC	chr2p23.3	9	proopiomelanocortin	x	0.178583885	0.195890864	0.421825356
+203356_at	1	lung	1	g.lv3.csc	0.512486526	1.271940058	1	23473	CAPN7	chr3p24	4	calpain 7	x	0.23943255	0.246412057	0.404003153
+202118_s_at	1	lung	1	g.lv3.csc	0.262540399	1.553207768	1	8895	CPNE3	chr8q21.3	5	copine III	x	0.240369902	0.221239037	0.437399614

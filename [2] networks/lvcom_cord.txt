@@ -1,0 +1,65 @@
+order.probe	ann.probe	tis.cnt	tis	lv.cnt	lv	fdf.pCsc	fdf.EscCsc	g.id.num	out.gid	g.sym	g.chr	n.ann.tsp	g.name	tcnd	cor.mean.csc	cor.mean.p	cor.mean.Esc
+209714_s_at	209714_s_at	4	lung atrt breast sf	"1,1,1,1"	"nov_set.a,nov_set.a,nov_set.a,nov_set.a"	-0.275228601	0.596317569	1	1033	CDKN3	chr14q22	23	cyclin-dependent kinase inhibitor 3	com	0.240947586	0.229103405	0.381484893
+213599_at	213599_at	4	colon breast gbm sf	"1,1,1,1"	"nov_set.a,nov_set.a,nov_set.a,nov_set.a"	-0.731434935	-1.442526242	1	11339	OIP5	chr15q15.1	3	Opa interacting protein 5	com	0.250981843	0.283125615	0.383294852
+206875_s_at	206875_s_at	4	lung oral breast gbm	"1,1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc,g.lv3.csc"	0.335795275	1.466761735	1	9748	SLK	chr10q25.1	6	STE20-like kinase (yeast)	x	0.194989101	0.324661281	0.461113365
+201567_s_at	201567_s_at	3	oral colon gbm	"2,2,2"	"lv_set.a g.lv3.csc,lv_set.a g.lv3.csc,lv_set.a g.lv3.csc"	0.796419343	0.942989818	1	2803	GOLGA4	chr3p22-p21.3	8	"golgi autoantigen, golgin subfamily a, 4"	com	0.20875942	0.338273903	0.375557854
+201448_at	201448_at	3	oral colon breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.320981254	-0.131489493	1	7072	TIA1	chr2p13	3	TIA1 cytotoxic granule-associated RNA binding protein	com	0.300302806	0.365824017	0.484766
+1552519_at	1552519_at	3	atrt oral breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	1.033022356	0.473559393	1	130399	ACVR1C	chr2q24.1	9	"activin A receptor, type IC"	com	0.250546932	0.211676898	0.272396357
+204285_s_at	204285_s_at	3	lung oral gbm	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	0.892757243	0.092519809	1	5366	PMAIP1	chr18q21.32	6	phorbol-12-myristate-13-acetate-induced protein 1	com	0.248153121	0.26651921	0.463384893
+214331_at	214331_at	3	oral colon breast	"1,1,1"	"nov_set.a,nov_set.a,nov_set.a"	-0.739685699	-0.050521823	1	10102	TSFM	chr12q13-q14	2	"Ts translation elongation factor, mitochondrial"	com	0.252879157	0.274456479	0.357439614
+229194_at	229194_at	3	oral colon breast	"1,1,1"	"g.lv6.csc.Esc,g.lv6.csc.Esc,g.lv6.csc.Esc"	0.564385299	2.068434368	1	84333	PCGF5	chr10q23.32	4	polycomb group ring finger 5	x	0.274532694	0.21114456	0.350817397
+208654_s_at	208654_s_at	3	lung oral breast	"1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc"	0.173019134	1.529733181	1	8763	CD164	chr6q21	12	"CD164 molecule, sialomucin"	x	0.217652118	0.291468227	0.296498014
+1554362_at	1554362_at	3	atrt oral breast	"1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc"	-0.113725091	-0.542911297	1	54766	BTG4	chr11q23	1	B-cell translocation gene 4	x	0.193802589	0.291268835	0.439184227
+223529_at	223529_at	3	atrt oral gbm	"1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc"	-0.291485441	-1.638898003	1	6860	SYT4	chr18q12.3	4	synaptotagmin IV	x	0.209574252	0.239604904	0.301261439
+210937_s_at	210937_s_at	3	oral breast gbm	"1,1,1"	"g.lv3.csc,g.lv3.csc,g.lv3.csc"	-0.751312762	-1.319664609	1	3651	PDX1	chr13q12.1	4	pancreatic and duodenal homeobox 1	x	0.180762186	0.248289344	0.308581325
+224984_at	224984_at	2	oral colon	"1,1"	"nov_set.a,nov_set.a"	0.615009241	1.351031642	1	10725	NFAT5	chr16q22.1	9	"nuclear factor of activated T-cells 5, tonicity-responsive"	com	0.259430308	0.327075961	0.466804025
+226858_at	226858_at	2	colon breast	"1,1"	"nov_set.a,nov_set.a"	0.839604727	1.02726347	1	1454	CSNK1E	chr22q13.1	1	"casein kinase 1, epsilon"	com	0.229564367	0.280712858	0.36169359
+235289_at	235289_at	2	oral gbm	"1,1"	"lv_set.a,lv_set.a"	0.729934934	1.699678985	1	56648	EIF5A2	chr3q26.2	3	eukaryotic translation initiation factor 5A2	com	0.235391953	0.232965717	0.242581907
+1554868_s_at	1554868_s_at	2	oral breast	"1,1"	"nov_set.a,nov_set.a"	0.729376801	1.219567598	1	57092	PCNP	chr3q12.3	7	PEST proteolytic signal containing nuclear protein	com	0.244617416	0.331809814	0.335394275
+224454_at	224454_at	2	colon breast	"1,1"	"nov_set.a,nov_set.a"	0.839064525	0.79181866	1	55500	ETNK1	chr12p12.1	2	ethanolamine kinase 1	com	0.227515757	0.177938057	0.223553909
+219076_s_at	219076_s_at	2	oral colon	"1,1"	"lv_set.a,lv_set.a"	-0.682963823	0.813234747	1	5827	PXMP2	chr12q24.33	6	"peroxisomal membrane protein 2, 22kDa"	com	0.2616931	0.204934999	0.280925028
+208678_at	208678_at	2	oral colon	"1,1"	"nov_set.a,nov_set.a"	0.817427581	1.051455825	1	529	ATP6V1E1	chr22pter-q11.2|22q11.1	8	"ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1"	com	0.230542494	0.266811761	0.32183478
+205090_s_at	205090_s_at	2	oral sf	"1,1"	"nov_set.a,nov_set.a"	-0.616991012	0.262741508	1	51172	NAGPA	chr16p13.3	8	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	com	0.189188339	0.211021468	0.409497628
+221591_s_at	221591_s_at	2	lung atrt	"1,1"	"nov_set.a,nov_set.a"	-0.739577474	-1.195737976	1	54478	FAM64A	chr17p13.2	6	"family with sequence similarity 64, member A"	com	0.222062021	0.198889154	0.390465103
+202240_at	202240_at	2	atrt sf	"1,1"	"nov_set.a,nov_set.a"	-0.850044083	-0.399939855	1	5347	PLK1	chr16p12.1	9	polo-like kinase 1 (Drosophila)	com	0.254697153	0.252321784	0.321683624
+222857_s_at	222857_s_at	2	lung breast	"1,1"	"lv_set.a,lv_set.a"	0.349627859	-1.187553103	1	27345	KCNMB4	chr12q	6	"potassium large conductance calcium-activated channel, subfamily M, beta member 4"	com	0.242056045	0.212714269	0.436906716
+202265_at	202265_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	0.163061613	1.516664289	1	648	BMI1	chr10p11.23	5	BMI1 polycomb ring finger oncogene	x	0.267685853	0.337187729	0.46238572
+211063_s_at	211063_s_at	2	oral gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	0.296036488	1.123071679	1	4690	NCK1	chr3q21	3	NCK adaptor protein 1	x	0.232428647	0.311497215	0.474329573
+233849_s_at	233849_s_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	0.494794831	1.308387689	1	394	ARHGAP5	chr14q12	3	Rho GTPase activating protein 5	x	0.194520693	0.341078878	0.463380481
+217936_at	217936_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	0.525730685	1.126242879	1	394	ARHGAP5	chr14q12	3	Rho GTPase activating protein 5	x	0.261992797	0.343478401	0.46037433
+221230_s_at	221230_s_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	0.654967934	0.716324783	1	51742	ARID4B	chr1q42.1-q43	7	AT rich interactive domain 4B (RBP1-like)	x	0.235769324	0.369924257	0.459553028
+201152_s_at	201152_s_at	2	oral breast	"1,1"	"g.lv7.ALL,g.lv7.ALL"	0.104596587	1.877886004	1	4154	MBNL1	chr3q25	17	muscleblind-like (Drosophila)	x	0.226501801	0.313709676	0.411351681
+226326_at	226326_at	2	oral breast	"1,1"	"g.lv6.csc.Esc,g.lv6.csc.Esc"	0.458718887	2.042394196	1	84333	PCGF5	chr10q23.32	2	polycomb group ring finger 5	x	0.241429747	0.297936381	0.207963836
+225018_at	225018_at	2	oral colon	"1,1"	"g.lv3.csc,g.lv3.csc"	0.322228835	1.665232762	1	56907	SPIRE1	chr18p11.21	5	spire homolog 1 (Drosophila)	x	0.249345541	0.231324311	0.343891671
+206748_s_at	206748_s_at	2	oral gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	0.410561061	1.628402209	1	9043	SPAG9	chr17q21.33	18	sperm associated antigen 9	x	0.232119292	0.231945615	0.299321521
+224975_at	224975_at	2	breast gbm	"1,1"	"g.lv6.csc.Esc,g.lv6.csc.Esc"	0.228249081	1.694573699	1	4774	NFIA	chr1p31.3-p31.2	6	nuclear factor I/A	x	0.256776964	0.258606179	0.224844601
+211858_x_at	211858_x_at	2	lung breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.021908414	1.065288056	1	2778	GNAS	chr20q13.3	22	GNAS complex locus	x	0.201732811	0.181551263	0.453920686
+219732_at	219732_at	2	atrt gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.346032637	-1.452420717	1	54886	RP11-35N6.1	chr9q31.1	8	plasticity related gene 3	x	0.240649295	0.233359027	0.33362822
+220817_at	220817_at	2	atrt breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	0.011481831	-1.080861559	1	7223	TRPC4	chr13q13.1-q13.2	12	"transient receptor potential cation channel, subfamily C, member 4"	x	0.226468348	0.178437752	0.350896398
+230943_at	230943_at	2	breast gbm	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.042894489	-1.180198587	1	64321	SOX17	chr8q11.23	2	SRY (sex determining region Y)-box 17	x	0.177982321	0.177554855	0.215002698
+206528_at	206528_at	2	atrt breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.224396663	-1.115071729	1	7225	TRPC6	chr11q21-q22	6	"transient receptor potential cation channel, subfamily C, member 6"	x	0.169807962	0.205523478	0.267735001
+1554776_at	1554776_at	2	breast gbm	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	0.004086616	-1.754457461	1	132625	ZFP42	chr4q35.2	4	zinc finger protein 42 homolog (mouse)	x	0.228211205	0.212749482	0.368591272
+1554777_at	1554777_at	2	oral breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.065793731	-1.830773842	1	132625	ZFP42	chr4q35.2	3	zinc finger protein 42 homolog (mouse)	x	0.188034245	0.147909988	0.419878078
+240301_at	240301_at	2	oral breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.106657515	-1.846586014	1	151871	DPPA2	chr3q13.13	4	developmental pluripotency associated 2	x	0.174723956	0.272470217	0.358950839
+236501_at	236501_at	2	atrt breast	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.003635309	-1.879318221	1	57167	SALL4	chr20q13.13-q13.2	7	"Sal-like 4 (Drosophila) (SALL4), mRNA"	x	0.183800601	0.301240851	0.331647905
+214396_s_at	214396_s_at	2	breast gbm	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.011418877	-2.016759467	1	8932	MBD2	chr18q21	2	methyl-CpG binding domain protein 2	x	0.232566954	0.196476791	0.225416759
+219651_at	219651_at	2	lung breast	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.004158458	-1.89649558	1	55211	DPPA4	chr3q13.13	2	developmental pluripotency associated 4	x	0.182054477	0.183443525	0.446122689
+209848_s_at	209848_s_at	2	oral gbm	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.119821454	-1.930849759	1	6490	SILV	chr12q13-q14	7	silver homolog (mouse)	x	0.233955358	0.293290658	0.43159594
+206286_s_at	206286_s_at	2	atrt oral	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.175911471	-1.980426435	2	6997   6998	TDGF1 /// TDGF3	chr3p21.31 /// chrXq22.3	4	"teratocarcinoma-derived growth factor 1 /// teratocarcinoma-derived growth factor 3, pseudogene"	x	0.210368725	0.266067173	0.443190575
+230208_at	230208_at	2	breast gbm	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.076907403	-1.805784589	1	10021	HCN4	chr15q24-q25	1	hyperpolarization activated cyclic nucleotide-gated potassium channel 4	x	0.263513578	0.333675731	0.184541081
+222640_at	222640_at	2	breast gbm	"1,1"	"g.lv7.ALL,g.lv7.ALL"	-0.319093984	-1.909193531	1	1788	DNMT3A	chr2p23	10	DNA (cytosine-5-)-methyltransferase 3 alpha	x	0.217415929	0.228293034	0.375863365
+204631_at	204631_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.24551703	-1.572550539	1	4620	MYH2	chr17p13.1	5	"myosin, heavy chain 2, skeletal muscle, adult"	x	0.19891123	0.213526672	0.234151711
+228252_at	228252_at	2	lung colon	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.654821221	-1.659671209	1	80119	PIF1	chr15q22.31	9	PIF1 5'-to-3' DNA helicase homolog (S. cerevisiae)	x	0.187182646	0.235799033	0.389204126
+223615_at	223615_at	2	atrt gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.668773357	-1.52029381	1	51225	ABI3	chr17q21.3	5	"ABI family, member 3"	x	0.197741493	0.265272411	0.305443009
+224049_at	224049_at	2	oral gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.191478613	-1.414356794	1	89822	KCNK17	chr6p21.1	6	"potassium channel, subfamily K, member 17"	x	0.233954124	0.315170038	0.342028548
+221378_at	221378_at	2	oral breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.026932727	-1.514802902	1	9350	CER1	chr9p23-p22	8	"cerberus 1, cysteine knot superfamily, homolog (Xenopus laevis)"	x	0.213053381	0.326056305	0.360153353
+206012_at	206012_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.01558172	-1.756053315	1	7044	LEFTY2	chr1q42.1	6	left-right determination factor 2	x	0.190603428	0.314166541	0.385513881
+200049_at	200049_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.289293953	-1.542079707	1	11143	MYST2	chr17q21.32	7	MYST histone acetyltransferase 2	x	0.208272545	0.288898965	0.310341805
+234102_at	234102_at	2	oral breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.310298053	-1.592151483	1	65997	RASL11B	chr4q12	1	"RAS-like, family 11, member B, mRNA (cDNA clone MGC:34182 IMAGE:5209000)"	x	0.183690416	0.306752678	0.306286993
+205011_at	205011_at	2	lung colon	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.125484675	-1.665340143	1	4013	VWA5A	chr11q23	9	von Willebrand factor A domain containing 5A	x	0.236944212	0.268470204	0.404606044
+204548_at	204548_at	2	lung breast	"1,1"	"g.lv5.p.csc,g.lv5.p.csc"	-0.171699229	-1.660922851	1	6770	STAR	chr8p11.2	8	steroidogenic acute regulatory protein	x	0.183034422	0.173259178	0.353807805
+216967_at	216967_at	2	lung gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.297404491	-1.56945649	1	2596	GAP43	chr3q13.1-q13.2	1	growth associated protein 43	x	0.165460543	0.237390287	0.264222893
+230010_at	230010_at	2	atrt breast	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.43432532	-1.321039173	1	84530	KIAA1853	chr12q24.23	2	KIAA1853	x	0.168968192	0.263193397	0.452809607
+1559748_at	1559748_at	2	breast gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.543112816	-1.1613	1	57188	ADAMTSL3	chr15q25.2	3	ADAMTS-like 3	x	0.166358458	0.271686321	0.438154675
+215709_at	215709_at	2	oral gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.717326036	-1.001431489	2	100134355   5558	LOC100134355 /// PRIM2	chr6p12-p11.1	6	"similar to Primase, DNA, polypeptide 2 (58kDa) /// primase, DNA, polypeptide 2 (58kDa)"	x	0.199733152	0.24404575	0.430766688
+232220_at	232220_at	2	oral gbm	"1,1"	"g.lv3.csc,g.lv3.csc"	-0.548913822	-1.460939542	1	338324	S100A7A	chr1q21.3	1	S100 calcium binding protein A7A	x	0.175223348	0.273945388	0.339705106

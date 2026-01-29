@@ -1,0 +1,790 @@
+gnr.pb	gnr.id	gnr.sym	gnr.chr	l.cnt	l.type.cnt	l.cond.cnt	or	lung	gbm	atrt	br	cn	snail	sf	gnr.name
+221591_s_at	54478	FAM64A	chr17p13.2	3	2	1	0	1	0	1	0	0	0	1	family with sequence similarity 64, member A
+235289_at	56648	EIF5A2	chr3q26.2	2	1	1	1	0	0	0	0	0	0	1	eukaryotic translation initiation factor 5A2
+201567_s_at	2803	GOLGA4	chr3p22-p21.3	2	2	0	1	0	0	0	0	1	0	0	golgi autoantigen, golgin subfamily a, 4
+204285_s_at	5366	PMAIP1	chr18q21.32	2	1	1	1	0	0	0	0	0	1	0	phorbol-12-myristate-13-acetate-induced protein 1
+217816_s_at	57092	PCNP	chr3q12.3	2	2	0	1	0	0	1	0	0	0	0	PEST proteolytic signal containing nuclear protein
+205090_s_at	51172	NAGPA	chr16p13.3	2	1	1	1	0	0	0	0	0	0	1	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+201448_at	7072	TIA1	chr2p13	2	2	0	1	0	0	0	0	1	0	0	TIA1 cytotoxic granule-associated RNA binding protein
+1554868_s_at	57092	PCNP	chr3q12.3	2	1	1	1	0	0	0	0	0	1	0	PEST proteolytic signal containing nuclear protein
+209714_s_at	1033	CDKN3	chr14q22	2	2	0	0	1	0	1	0	0	0	0	cyclin-dependent kinase inhibitor 3
+205043_at	1080	CFTR	chr7q31.2	2	1	1	0	1	0	0	0	0	1	0	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
+227795_at	4723	NDUFV1	chr11q13	2	1	1	0	1	0	0	0	0	1	0	NDUFV1=NADH:ubiquinone oxidoreductase flavoprotein 1 subunit [human, kidney, mRNA Partial, 771 nt]
+215065_at	23133	PHF8	chrXp11.22	2	2	0	0	1	1	0	0	0	0	0	PHD finger protein 8
+223822_at	55061	SUSD4	chr1q41	2	2	0	0	1	1	0	0	0	0	0	sushi domain containing 4
+211713_x_at	9768	KIAA0101	chr15q22.31	2	1	1	0	1	0	0	0	0	0	1	KIAA0101
+203978_at	4682	NUBP1	chr16p13.13	2	1	1	0	1	0	0	0	0	0	1	nucleotide binding protein 1 (MinD homolog, E. coli)
+36920_at	4534	MTM1	chrXq28	2	2	0	0	0	1	0	0	1	0	0	myotubularin 1
+207812_s_at	26003	GORASP2	chr2q31.1-q31.2	2	2	0	0	0	1	0	0	1	0	0	golgi reassembly stacking protein 2, 55kDa
+207341_at	5657	PRTN3	chr19p13.3	2	2	0	0	0	1	0	1	0	0	0	proteinase 3
+213431_x_at	9814	SFI1	chr22q12.2	2	1	1	0	0	1	0	0	0	0	1	Sfi1 homolog, spindle assembly associated (yeast)
+1552519_at	130399	ACVR1C	chr2q24.1	2	1	1	0	0	0	1	0	0	0	1	activin A receptor, type IC
+202240_at	5347	PLK1	chr16p12.1	2	1	1	0	0	0	1	0	0	0	1	polo-like kinase 1 (Drosophila)
+214099_s_at	9659	PDE4DIP	chr1q12	2	1	1	0	0	0	1	0	0	0	1	phosphodiesterase 4D interacting protein
+222857_s_at	27345	KCNMB4	chr12q	2	1	1	0	0	0	0	1	0	1	0	potassium large conductance calcium-activated channel, subfamily M, beta member 4
+204766_s_at	4521	NUDT1	chr7p22	2	1	1	0	0	0	0	1	0	0	1	nudix (nucleoside diphosphate linked moiety X)-type motif 1
+226858_at	1454	CSNK1E	chr22q13.1	2	2	0	0	0	0	0	1	1	0	0	casein kinase 1, epsilon
+224454_at	55500	ETNK1	chr12p12.1	2	2	0	0	0	0	0	1	1	0	0	ethanolamine kinase 1
+201577_at	4830   4831	NME1 /// NME2	chr17q21.3	2	1	1	0	0	0	0	1	0	0	1	non-metastatic cells 1, protein (NM23A) expressed in /// non-metastatic cells 2, protein (NM23B) expressed in
+213599_at	11339	OIP5	chr15q15.1	2	1	1	0	0	0	0	1	0	0	1	Opa interacting protein 5
+201611_s_at	23463	ICMT	chr1p36.21	2	1	1	0	0	0	0	0	1	0	1	isoprenylcysteine carboxyl methyltransferase
+219076_s_at	5827	PXMP2	chr12q24.33	2	1	1	0	0	0	0	0	1	0	1	peroxisomal membrane protein 2, 22kDa
+214331_at	10102	TSFM	chr12q13-q14	2	1	1	0	0	0	0	0	1	0	1	Ts translation elongation factor, mitochondrial
+229336_at	6483	ST3GAL2	chr16q22.1	2	1	1	0	0	0	0	0	1	0	1	ST3 beta-galactoside alpha-2,3-sialyltransferase 2
+224984_at	10725	NFAT5	chr16q22.1	2	1	1	0	0	0	0	0	1	0	1	nuclear factor of activated T-cells 5, tonicity-responsive
+208678_at	529	ATP6V1E1	chr22pter-q11.2|22q11.1	2	1	1	0	0	0	0	0	1	1	0	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1
+208737_at	9550	ATP6V1G1	chr9q32	1	1	0	1	0	0	0	0	0	0	0	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1
+212254_s_at	667	DST	chr6p12.1	1	1	0	1	0	0	0	0	0	0	0	dystonin
+219540_at	10308	ZNF267	chr16p11.2	1	1	0	1	0	0	0	0	0	0	0	zinc finger protein 267
+201517_at	22916	NCBP2	chr3q29	1	1	0	1	0	0	0	0	0	0	0	nuclear cap binding protein subunit 2, 20kDa
+209580_s_at	8930	MBD4	chr3q21-q22	1	1	0	1	0	0	0	0	0	0	0	methyl-CpG binding domain protein 4
+203345_s_at	22823	MTF2	chr1p22.1	1	1	0	1	0	0	0	0	0	0	0	metal response element binding transcription factor 2
+207035_at	7781	SLC30A3	chr2p23.3	1	1	0	1	0	0	0	0	0	0	0	solute carrier family 30 (zinc transporter), member 3
+235879_at	4154	MBNL1	chr3q25	1	1	0	1	0	0	0	0	0	0	0	MBNL protein
+203346_s_at	22823	MTF2	chr1p22.1	1	1	0	1	0	0	0	0	0	0	0	metal response element binding transcription factor 2
+226979_at	10746	MAP3K2	chr2q14.3	1	1	0	1	0	0	0	0	0	0	0	mitogen-activated protein kinase kinase kinase 2
+204369_at	5290	PIK3CA	chr3q26.3	1	1	0	1	0	0	0	0	0	0	0	phosphoinositide-3-kinase, catalytic, alpha polypeptide
+204053_x_at	5728	PTEN	chr10q23.3	1	1	0	1	0	0	0	0	0	0	0	phosphatase and tensin homolog
+205480_s_at	7360	UGP2	chr2p14-p13	1	1	0	1	0	0	0	0	0	0	0	UDP-glucose pyrophosphorylase 2
+202379_s_at	4820	NKTR	chr3p23-p21	1	1	0	1	0	0	0	0	0	0	0	natural killer-tumor recognition sequence
+1555460_a_at	25800	SLC39A6	chr18q12.2	1	1	0	1	0	0	0	0	0	0	0	solute carrier family 39 (zinc transporter), member 6
+1554890_a_at	7072	TIA1	chr2p13	1	1	0	1	0	0	0	0	0	0	0	TIA1 cytotoxic granule-associated RNA binding protein
+212468_at	9043	SPAG9	chr17q21.33	1	1	0	1	0	0	0	0	0	0	0	sperm associated antigen 9
+215338_s_at	4820	NKTR	chr3p23-p21	1	1	0	1	0	0	0	0	0	0	0	natural killer-tumor recognition sequence
+224229_s_at	10000	AKT3	chr1q43-q44	1	1	0	1	0	0	0	0	0	0	0	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+229419_at	55294	FBXW7	chr4q31.3	1	1	0	1	0	0	0	0	0	0	0	F-box and WD repeat domain containing 7
+220198_s_at	56648	EIF5A2	chr3q26.2	1	1	0	1	0	0	0	0	0	0	0	eukaryotic translation initiation factor 5A2
+217893_s_at	79647	AKIRIN1	chr1p34.3	1	1	0	1	0	0	0	0	0	0	0	akirin 1
+217863_at	8554	PIAS1	chr15q	1	1	0	1	0	0	0	0	0	0	0	protein inhibitor of activated STAT, 1
+219571_s_at	7559	ZNF12	chr7p22.1	1	1	0	1	0	0	0	0	0	0	0	zinc finger protein 12
+204041_at	4129	MAOB	chrXp11.23	1	1	0	1	0	0	0	0	0	0	0	monoamine oxidase B
+1554021_a_at	7559	ZNF12	chr7p22.1	1	1	0	1	0	0	0	0	0	0	0	zinc finger protein 12
+225352_at	7095	SEC62	chr3q26.2	1	1	0	1	0	0	0	0	0	0	0	SEC62 homolog (S. cerevisiae)
+218158_s_at	26060	APPL1	chr3p21.1-p14.3	1	1	0	1	0	0	0	0	0	0	0	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 1
+218236_s_at	23683	PRKD3	chr2p21	1	1	0	1	0	0	0	0	0	0	0	protein kinase D3
+233080_s_at	55660	PRPF40A	chr2q23.3	1	1	0	1	0	0	0	0	0	0	0	PRP40 pre-mRNA processing factor 40 homolog A (S. cerevisiae)
+214047_s_at	8930	MBD4	chr3q21-q22	1	1	0	1	0	0	0	0	0	0	0	methyl-CpG binding domain protein 4
+201637_s_at	8087	FXR1	chr3q28	1	1	0	1	0	0	0	0	0	0	0	fragile X mental retardation, autosomal homolog 1
+213435_at	23314	SATB2	chr2q33	1	1	0	1	0	0	0	0	0	0	0	SATB homeobox 2
+213729_at	55660	PRPF40A	chr2q23.3	1	1	0	1	0	0	0	0	0	0	0	PRP40 pre-mRNA processing factor 40 homolog A (S. cerevisiae)
+209579_s_at	8930	MBD4	chr3q21-q22	1	1	0	1	0	0	0	0	0	0	0	methyl-CpG binding domain protein 4
+60471_at	79890	RIN3	chr14q32.12	1	1	0	1	0	0	0	0	0	0	0	Ras and Rab interactor 3
+235296_at	56648	EIF5A2	chr3q26.2	1	1	0	1	0	0	0	0	0	0	0	eukaryotic translation initiation factor 5A2
+205062_x_at	5926	ARID4A	chr14q23.1	1	1	0	1	0	0	0	0	0	0	0	AT rich interactive domain 4A (RBP1-like)
+221829_s_at	3842	TNPO1	chr5q13.2	1	1	0	1	0	0	0	0	0	0	0	transportin 1
+202089_s_at	25800	SLC39A6	chr18q12.2	1	1	0	1	0	0	0	0	0	0	0	solute carrier family 39 (zinc transporter), member 6
+222565_s_at	23683	PRKD3	chr2p21	1	1	0	1	0	0	0	0	0	0	0	protein kinase D3
+239897_at	9774	BCLAF1	chr6q22-q23	1	1	0	1	0	0	0	0	0	0	0	BCL2-associated transcription factor 1
+203789_s_at	10512	SEMA3C	chr7q21-q31	1	1	0	1	0	0	0	0	0	0	0	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C
+226538_at	4124	MAN2A1	chr5q21-q22	1	1	0	1	0	0	0	0	0	0	0	mannosidase, alpha, class 2A, member 1
+204286_s_at	5366	PMAIP1	chr18q21.32	1	1	0	1	0	0	0	0	0	0	0	phorbol-12-myristate-13-acetate-induced protein 1
+214553_s_at	10776	ARPP-19	chr15q21.2	1	1	0	1	0	0	0	0	0	0	0	cyclic AMP phosphoprotein, 19 kD
+212542_s_at	55023	PHIP	chr6q14	1	1	0	1	0	0	0	0	0	0	0	pleckstrin homology domain interacting protein
+1567214_a_at	5411	PNN	chr14q21.1	1	1	0	1	0	0	0	0	0	0	0	pinin, desmosome associated protein
+201446_s_at	7072	TIA1	chr2p13	1	1	0	1	0	0	0	0	0	0	0	TIA1 cytotoxic granule-associated RNA binding protein
+213026_at	9140	ATG12	chr5q21-q22	1	1	0	1	0	0	0	0	0	0	0	ATG12 autophagy related 12 homolog (S. cerevisiae)
+214820_at	54014	BRWD1	chr21q22.2	1	1	0	1	0	0	0	0	0	0	0	bromodomain and WD repeat domain containing 1
+1558675_s_at	9147	SDCCAG1	chr14q22	1	1	0	1	0	0	0	0	0	0	0	serologically defined colon cancer antigen 1
+228129_at	26135	SERBP1	chr1p31	1	1	0	1	0	0	0	0	0	0	0	SERPINE1 mRNA binding protein 1
+235170_at	168374	ZNF92	chr7q11.21	1	1	0	1	0	0	0	0	0	0	0	zinc finger protein 92
+219889_at	10023	FRAT1	chr10q24.1	1	1	0	1	0	0	0	0	0	0	0	frequently rearranged in advanced T-cell lymphomas
+212607_at	10000	AKT3	chr1q43-q44	1	1	0	1	0	0	0	0	0	0	0	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+222880_at	10000	AKT3	chr1q43-q44	1	1	0	1	0	0	0	0	0	0	0	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+217862_at	8554	PIAS1	chr15q	1	1	0	1	0	0	0	0	0	0	0	protein inhibitor of activated STAT, 1
+217941_s_at	55914	ERBB2IP	chr5q12.3	1	1	0	1	0	0	0	0	0	0	0	erbb2 interacting protein
+208901_s_at	7150	TOP1	chr20q12-q13.1	1	1	0	1	0	0	0	0	0	0	0	topoisomerase (DNA) I
+222473_s_at	55914	ERBB2IP	chr5q12.3	1	1	0	1	0	0	0	0	0	0	0	erbb2 interacting protein
+201138_s_at	6741	SSB	chr2q31.1	1	1	0	1	0	0	0	0	0	0	0	Sjogren syndrome antigen B (autoantigen La)
+221483_s_at	10776	ARPP-19	chr15q21.2	1	1	0	1	0	0	0	0	0	0	0	cyclic AMP phosphoprotein, 19 kD
+202467_s_at	9318	COPS2	chr15q21.2	1	1	0	1	0	0	0	0	0	0	0	COP9 constitutive photomorphogenic homolog subunit 2 (Arabidopsis)
+210962_s_at	10142	AKAP9	chr7q21-q22	1	1	0	1	0	0	0	0	0	0	0	A kinase (PRKA) anchor protein (yotiao) 9
+237276_at	4678	NASP	chr1p34.1	1	1	0	1	0	0	0	0	0	0	0	Nuclear autoantigenic sperm protein (histone-binding) (NASP), transcript variant 1, mRNA
+219280_at	54014	BRWD1	chr21q22.2	1	1	0	1	0	0	0	0	0	0	0	bromodomain and WD repeat domain containing 1
+1554105_at	84548	TMEM185A	chrXq28	1	1	0	1	0	0	0	0	0	0	0	transmembrane protein 185A
+227428_at	2551	GABPA	chr21q21-q22.1|21q21.3	1	1	0	1	0	0	0	0	0	0	0	GA binding protein transcription factor, alpha subunit 60kDa
+206377_at	2295	FOXF2	chr6p25.3	1	1	0	1	0	0	0	0	0	0	0	forkhead box F2
+216305_s_at	6936	C2orf3	chr2p11.2-p11.1	1	1	0	1	0	0	0	0	0	0	0	chromosome 2 open reading frame 3
+208405_s_at	8763	CD164	chr6q21	1	1	0	1	0	0	0	0	0	0	0	CD164 molecule, sialomucin
+201143_s_at	1965	EIF2S1	chr14q23.3	1	1	0	1	0	0	0	0	0	0	0	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa
+223784_at	57393	TMEM27	chrXp22	1	1	0	1	0	0	0	0	0	0	0	transmembrane protein 27
+1554433_a_at	7705	ZNF146	chr19q13.1	1	1	0	1	0	0	0	0	0	0	0	zinc finger protein 146
+218520_at	29110	TBK1	chr12q14.1	1	1	0	1	0	0	0	0	0	0	0	TANK-binding kinase 1
+217739_s_at	10135	NAMPT	chr7q22.2	1	1	0	1	0	0	0	0	0	0	0	nicotinamide phosphoribosyltransferase
+201012_at	301	ANXA1	chr9q12-q21.2|9q12-q21.2	1	1	0	1	0	0	0	0	0	0	0	annexin A1
+234192_s_at	80318	GKAP1	chr9q21.32	1	1	0	1	0	0	0	0	0	0	0	G kinase anchoring protein 1
+217492_s_at	11191   5728	PTEN /// PTENP1	chr10q23.3 /// chr9p21	1	1	0	1	0	0	0	0	0	0	0	phosphatase and tensin homolog /// phosphatase and tensin homolog pseudogene 1
+32088_at	8548	BLZF1	chr1q24	1	1	0	1	0	0	0	0	0	0	0	basic leucine zipper nuclear factor 1
+212322_at	8879	SGPL1	chr10q21	1	1	0	1	0	0	0	0	0	0	0	sphingosine-1-phosphate lyase 1
+201839_s_at	4072	EPCAM	chr2p21	1	1	0	1	0	0	0	0	0	0	0	epithelial cell adhesion molecule
+224761_at	10672	GNA13	chr17q24.3	1	1	0	1	0	0	0	0	0	0	0	guanine nucleotide binding protein (G protein), alpha 13
+217945_at	53339	BTBD1	chr15q24	1	1	0	1	0	0	0	0	0	0	0	BTB (POZ) domain containing 1
+212036_s_at	5411	PNN	chr14q21.1	1	1	0	1	0	0	0	0	0	0	0	pinin, desmosome associated protein
+206158_s_at	7555	CNBP	chr3q21	1	1	0	1	0	0	0	0	0	0	0	CCHC-type zinc finger, nucleic acid binding protein
+201450_s_at	7072	TIA1	chr2p13	1	1	0	1	0	0	0	0	0	0	0	TIA1 cytotoxic granule-associated RNA binding protein
+220443_s_at	25806	VAX2	chr2p13	1	1	0	1	0	0	0	0	0	0	0	ventral anterior homeobox 2
+1554241_at	1690	COCH	chr14q12-q13	1	1	0	1	0	0	0	0	0	0	0	coagulation factor C homolog, cochlin (Limulus polyphemus)
+227771_at	3977	LIFR	chr5p13-p12	1	1	0	1	0	0	0	0	0	0	0	leukemia inhibitory factor receptor alpha
+1554992_at	5923	RASGRF1	chr15q24	1	1	0	1	0	0	0	0	0	0	0	Ras protein-specific guanine nucleotide-releasing factor 1
+201636_at	8087	FXR1	chr3q28	1	1	0	1	0	0	0	0	0	0	0	fragile X mental retardation, autosomal homolog 1
+226106_at	50862	RNF141	chr11p15.4	1	1	0	1	0	0	0	0	0	0	0	ring finger protein 141
+209901_x_at	199	AIF1	chr6p21.3	1	1	0	1	0	0	0	0	0	0	0	allograft inflammatory factor 1
+223250_at	55975	KLHL7	chr7p15.3	1	1	0	1	0	0	0	0	0	0	0	kelch-like 7 (Drosophila)
+201236_s_at	7832	BTG2	chr1q32	1	1	0	0	1	0	0	0	0	0	0	BTG family, member 2
+228851_s_at	2029	ENSA	chr1q21.2	1	1	0	0	1	0	0	0	0	0	0	endosulfine alpha
+214591_at	56062	KLHL4	chrXq21.3	1	1	0	0	1	0	0	0	0	0	0	kelch-like 4 (Drosophila)
+225087_at	123811	C16orf63	chr16p13.11	1	1	0	0	1	0	0	0	0	0	0	chromosome 16 open reading frame 63
+204540_at	1917	EEF1A2	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	eukaryotic translation elongation factor 1 alpha 2
+214548_x_at	2778	GNAS	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	GNAS complex locus
+205533_s_at	1004	CDH6	chr5p15.1-p14	1	1	0	0	1	0	0	0	0	0	0	cadherin 6, type 2, K-cadherin (fetal kidney)
+208805_at	5687   9692	KIAA0391 /// PSMA6	chr14q13 /// chr14q13.2	1	1	0	0	1	0	0	0	0	0	0	KIAA0391 /// proteasome (prosome, macropain) subunit, alpha type, 6
+239570_at	5861	RAB1A	chr2p14	1	1	0	0	1	0	0	0	0	0	0	GTP-binding protein (RAB1A) mRNA, 3' untranslated region
+219697_at	9956	HS3ST2	chr16p12	1	1	0	0	1	0	0	0	0	0	0	heparan sulfate (glucosamine) 3-O-sulfotransferase 2
+227271_at	2256	FGF11	chr17p13.1	1	1	0	0	1	0	0	0	0	0	0	fibroblast growth factor 11
+224130_s_at	10011	SRA1	chr5q31.3	1	1	0	0	1	0	0	0	0	0	0	steroid receptor RNA activator 1
+210969_at	5586	PKN2	chr1p22.2	1	1	0	0	1	0	0	0	0	0	0	protein kinase N2
+238542_at	80328	ULBP2	chr6q25	1	1	0	0	1	0	0	0	0	0	0	UL16 binding protein 2
+225827_at	27161	EIF2C2	chr8q24	1	1	0	0	1	0	0	0	0	0	0	eukaryotic translation initiation factor 2C, 2
+205091_x_at	5965	RECQL	chr12p12	1	1	0	0	1	0	0	0	0	0	0	RecQ protein-like (DNA helicase Q1-like)
+224844_at	57606	SLAIN2	chr4p12	1	1	0	0	1	0	0	0	0	0	0	SLAIN motif family, member 2
+201427_s_at	6414	SEPP1	chr5q31	1	1	0	0	1	0	0	0	0	0	0	selenoprotein P, plasma, 1
+230619_at	405	ARNT	chr1q21	1	1	0	0	1	0	0	0	0	0	0	aryl hydrocarbon receptor nuclear translocator
+224062_x_at	9622	KLK4	chr19q13.41	1	1	0	0	1	0	0	0	0	0	0	kallikrein-related peptidase 4
+213790_at	8038	ADAM12	chr10q26.3	1	1	0	0	1	0	0	0	0	0	0	ADAM metallopeptidase domain 12
+206912_at	2304	FOXE1	chr9q22	1	1	0	0	1	0	0	0	0	0	0	forkhead box E1 (thyroid transcription factor 2)
+226212_s_at	3643	INSR	chr19p13.3-p13.2	1	1	0	0	1	0	0	0	0	0	0	insulin receptor
+201971_s_at	523	ATP6V1A	chr3q13.2-q13.31	1	1	0	0	1	0	0	0	0	0	0	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A
+201247_at	6721	SREBF2	chr22q13	1	1	0	0	1	0	0	0	0	0	0	sterol regulatory element binding transcription factor 2
+208216_at	1748	DLX4	chr17q21.33	1	1	0	0	1	0	0	0	0	0	0	distal-less homeobox 4
+1553963_at	388	RHOB	chr2p24	1	1	0	0	1	0	0	0	0	0	0	ras homolog gene family, member B
+218807_at	10451	VAV3	chr1p13.3	1	1	0	0	1	0	0	0	0	0	0	vav 3 guanine nucleotide exchange factor
+220060_s_at	55010	C12orf48	chr12q23.2	1	1	0	0	1	0	0	0	0	0	0	chromosome 12 open reading frame 48
+213943_at	7291	TWIST1	chr7p21.2	1	1	0	0	1	0	0	0	0	0	0	twist homolog 1 (Drosophila)
+221499_s_at	8675	STX16	chr20q13.32	1	1	0	0	1	0	0	0	0	0	0	syntaxin 16
+1554680_s_at	3788	KCNS2	chr8q22	1	1	0	0	1	0	0	0	0	0	0	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 2
+230425_at	2047	EPHB1	chr3q21-q23	1	1	0	0	1	0	0	0	0	0	0	EPH receptor B1
+200981_x_at	2778	GNAS	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	GNAS complex locus
+220551_at	57084	SLC17A6	chr11p14.3	1	1	0	0	1	0	0	0	0	0	0	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6
+203037_s_at	9788	MTSS1	chr8p22	1	1	0	0	1	0	0	0	0	0	0	metastasis suppressor 1
+205436_s_at	3014	H2AFX	chr11q23.2-q23.3	1	1	0	0	1	0	0	0	0	0	0	H2A histone family, member X
+227958_s_at	2934	GSN	chr9q33	1	1	0	0	1	0	0	0	0	0	0	CDNA FLJ38961 fis, clone NT2RI2000276, highly similar to Gelsolin precursor
+207464_at	10768	AHCYL1	chr1p13.2	1	1	0	0	1	0	0	0	0	0	0	S-adenosylhomocysteine hydrolase-like 1
+223156_at	51649	MRPS23	chr17q22-q23	1	1	0	0	1	0	0	0	0	0	0	mitochondrial ribosomal protein S23
+243629_x_at	4241	MFI2	chr3q28-q29	1	1	0	0	1	0	0	0	0	0	0	antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5
+219107_at	63827	BCAN	chr1q31	1	1	0	0	1	0	0	0	0	0	0	brevican
+228213_at	55766	H2AFJ	chr12p12	1	1	0	0	1	0	0	0	0	0	0	H2A histone family, member J
+242823_at	170692	ADAMTS18	chr16q23	1	1	0	0	1	0	0	0	0	0	0	Full length insert cDNA clone ZD16H11
+208704_x_at	334	APLP2	chr11q23-q25|11q24	1	1	0	0	1	0	0	0	0	0	0	amyloid beta (A4) precursor-like protein 2
+210221_at	1136	CHRNA3	chr15q24	1	1	0	0	1	0	0	0	0	0	0	cholinergic receptor, nicotinic, alpha 3
+210583_at	84271	POLDIP3	chr22q13.2	1	1	0	0	1	0	0	0	0	0	0	polymerase (DNA-directed), delta interacting protein 3
+236711_at	84107	ZIC4	chr3q24	1	1	0	0	1	0	0	0	0	0	0	Zic family member 4
+202203_s_at	267	AMFR	chr16q21	1	1	0	0	1	0	0	0	0	0	0	autocrine motility factor receptor
+201639_s_at	29894	CPSF1	chr8q24.23	1	1	0	0	1	0	0	0	0	0	0	cleavage and polyadenylation specific factor 1, 160kDa
+238682_at	257236	CCDC96	chr4p16.1	1	1	0	0	1	0	0	0	0	0	0	coiled-coil domain containing 96
+1553741_at	148645	C1orf211	chr1p36.31	1	1	0	0	1	0	0	0	0	0	0	chromosome 1 open reading frame 211
+236017_at	51265	CDKL3	chr5q31	1	1	0	0	1	0	0	0	0	0	0	cyclin-dependent kinase-like 3
+208248_x_at	334	APLP2	chr11q23-q25|11q24	1	1	0	0	1	0	0	0	0	0	0	amyloid beta (A4) precursor-like protein 2
+223704_s_at	10655	DMRT2	chr9p24.3	1	1	0	0	1	0	0	0	0	0	0	doublesex and mab-3 related transcription factor 2
+55616_at	93210	PERLD1	chr17q12	1	1	0	0	1	0	0	0	0	0	0	per1-like domain containing 1
+207212_at	6550	SLC9A3	chr5p15.3	1	1	0	0	1	0	0	0	0	0	0	solute carrier family 9 (sodium/hydrogen exchanger), member 3
+200780_x_at	2778	GNAS	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	GNAS complex locus
+201879_at	25820	ARIH1	chr15q24	1	1	0	0	1	0	0	0	0	0	0	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)
+206699_x_at	4861	NPAS1	chr19q13.2-q13.3	1	1	0	0	1	0	0	0	0	0	0	neuronal PAS domain protein 1
+243857_at	9643	MORF4L2	chrXq22	1	1	0	0	1	0	0	0	0	0	0	Mrgx mRNA for MRGX
+214097_at	6227	RPS21	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	ribosomal protein S21
+213276_at	816	CAMK2B	chr22q12|7p14.3-p14.1	1	1	0	0	1	0	0	0	0	0	0	calcium/calmodulin-dependent protein kinase II beta
+224864_at	10011	SRA1	chr5q31.3	1	1	0	0	1	0	0	0	0	0	0	steroid receptor RNA activator 1
+215259_s_at	199731	CADM4	chr19q13.31	1	1	0	0	1	0	0	0	0	0	0	cell adhesion molecule 4
+232846_s_at	64072	CDH23	chr10q21-q22	1	1	0	0	1	0	0	0	0	0	0	cadherin-like 23
+219203_at	51016	FAM158A	chr14q11.2	1	1	0	0	1	0	0	0	0	0	0	family with sequence similarity 158, member A
+223772_s_at	25963	TMEM87A	chr15q15.1	1	1	0	0	1	0	0	0	0	0	0	transmembrane protein 87A
+213344_s_at	3014	H2AFX	chr11q23.2-q23.3	1	1	0	0	1	0	0	0	0	0	0	H2A.X mRNA encoding histone H2A.X
+208703_s_at	334	APLP2	chr11q23-q25|11q24	1	1	0	0	1	0	0	0	0	0	0	amyloid beta (A4) precursor-like protein 2
+229397_s_at	2909	GRLF1	chr19q13.3	1	1	0	0	1	0	0	0	0	0	0	CDNA FLJ56603 complete cds, highly similar to Glucocorticoid receptor DNA-binding factor 1
+201733_at	1182	CLCN3	chr4q33	1	1	0	0	1	0	0	0	0	0	0	chloride channel 3
+209715_at	23468	CBX5	chr12q13.13	1	1	0	0	1	0	0	0	0	0	0	chromobox homolog 5 (HP1 alpha homolog, Drosophila)
+226450_at	3643	INSR	chr19p13.3-p13.2	1	1	0	0	1	0	0	0	0	0	0	insulin receptor
+212918_at	5965	RECQL	chr12p12	1	1	0	0	1	0	0	0	0	0	0	RecQ protein-like (DNA helicase Q1-like)
+215042_at	654	BMP6	chr6p24-p23	1	1	0	0	1	0	0	0	0	0	0	bone morphogenetic protein 6
+225077_at	1106	CHD2	chr15q26	1	1	0	0	1	0	0	0	0	0	0	chromodomain helicase DNA binding protein 2
+1552953_a_at	4761	NEUROD2	chr17q12	1	1	0	0	1	0	0	0	0	0	0	neurogenic differentiation 2
+216609_at	7295	TXN	chr9q31	1	1	0	0	1	0	0	0	0	0	0	Full length insert cDNA clone YI46D09
+222530_s_at	8195	MKKS	chr20p12	1	1	0	0	1	0	0	0	0	0	0	McKusick-Kaufman syndrome
+202164_s_at	9337	CNOT8	chr5q31-q33	1	1	0	0	1	0	0	0	0	0	0	CCR4-NOT transcription complex, subunit 8
+234165_at	5729	PTGDR	chr14q22.1	1	1	0	0	1	0	0	0	0	0	0	prostaglandin D2 receptor (DP)
+205251_at	8864	PER2	chr2q37.3	1	1	0	0	1	0	0	0	0	0	0	period homolog 2 (Drosophila)
+214474_at	5565	PRKAB2	chr1q21.1	1	1	0	0	1	0	0	0	0	0	0	protein kinase, AMP-activated, beta 2 non-catalytic subunit
+203201_at	5373	PMM2	chr16p13.3-p13.2	1	1	0	0	1	0	0	0	0	0	0	phosphomannomutase 2
+244133_at	25862	USP49	chr6p21	1	1	0	0	1	0	0	0	0	0	0	ubiquitin specific peptidase 49
+212273_x_at	2778	GNAS	chr20q13.3	1	1	0	0	1	0	0	0	0	0	0	GNAS complex locus
+234740_at	8555	CDC14B	chr9q22.33	1	1	0	0	1	0	0	0	0	0	0	CDC14 cell division cycle 14 homolog B (S. cerevisiae) (CDC14B), transcript variant 2, mRNA
+206794_at	2066	ERBB4	chr2q33.3-q34	1	1	0	0	1	0	0	0	0	0	0	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)
+226958_s_at	400569	MED11	chr17p13.2	1	1	0	0	1	0	0	0	0	0	0	mediator complex subunit 11
+206309_at	11061	LECT1	chr13q14-q21	1	1	0	0	1	0	0	0	0	0	0	leukocyte cell derived chemotaxin 1
+227706_at	84501	SPIRE2	chr16q24	1	1	0	0	1	0	0	0	0	0	0	spire homolog 2 (Drosophila)
+201248_s_at	6721	SREBF2	chr22q13	1	1	0	0	1	0	0	0	0	0	0	sterol regulatory element binding transcription factor 2
+201165_s_at	9698	PUM1	chr1p35.2	1	1	0	0	1	0	0	0	0	0	0	pumilio homolog 1 (Drosophila)
+219787_s_at	1894	ECT2	chr3q26.1-q26.2	1	1	0	0	1	0	0	0	0	0	0	epithelial cell transforming sequence 2 oncogene
+213348_at	1028	CDKN1C	chr11p15.5	1	1	0	0	0	1	0	0	0	0	0	cyclin-dependent kinase inhibitor 1C (p57, Kip2)
+228358_at	6666	SOX12	chr20p13	1	1	0	0	0	1	0	0	0	0	0	SRY (sex determining region Y)-box 12
+227237_x_at	732419   83858	ATAD3B /// LOC732419	chr1p36.33	1	1	0	0	0	1	0	0	0	0	0	ATPase family, AAA domain containing 3B /// similar to AAA-ATPase  TOB3
+224855_at	29920	PYCR2	chr1q42.12	1	1	0	0	0	1	0	0	0	0	0	pyrroline-5-carboxylate reductase family, member 2
+204017_at	11015	KDELR3	chr22q13.1	1	1	0	0	0	1	0	0	0	0	0	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+1565737_at	6344	SCTR	chr2q14.1	1	1	0	0	0	1	0	0	0	0	0	secretin receptor
+204420_at	8061	FOSL1	chr11q13	1	1	0	0	0	1	0	0	0	0	0	FOS-like antigen 1
+217053_x_at	2115	ETV1	chr7p21.3	1	1	0	0	0	1	0	0	0	0	0	ets variant 1
+208345_s_at	5453	POU3F1	chr1p34.1	1	1	0	0	0	1	0	0	0	0	0	POU class 3 homeobox 1
+211737_x_at	5764	PTN	chr7q33-q34	1	1	0	0	0	1	0	0	0	0	0	pleiotrophin
+217061_s_at	2115	ETV1	chr7p21.3	1	1	0	0	0	1	0	0	0	0	0	ets variant 1
+211938_at	1975	EIF4B	chr12q13.13	1	1	0	0	0	1	0	0	0	0	0	eukaryotic translation initiation factor 4B
+226705_at	2260	FGFR1	chr8p11.2-p11.1	1	1	0	0	0	1	0	0	0	0	0	fibroblast growth factor receptor 1
+218222_x_at	405	ARNT	chr1q21	1	1	0	0	0	1	0	0	0	0	0	aryl hydrocarbon receptor nuclear translocator
+202404_s_at	1278	COL1A2	chr7q22.1	1	1	0	0	0	1	0	0	0	0	0	collagen, type I, alpha 2
+211116_at	6549	SLC9A2	chr2q11.2	1	1	0	0	0	1	0	0	0	0	0	solute carrier family 9 (sodium/hydrogen exchanger), member 2
+216705_s_at	100	ADA	chr20q12-q13.11	1	1	0	0	0	1	0	0	0	0	0	adenosine deaminase
+204639_at	100	ADA	chr20q12-q13.11	1	1	0	0	0	1	0	0	0	0	0	adenosine deaminase
+214402_s_at	9814	SFI1	chr22q12.2	1	1	0	0	0	1	0	0	0	0	0	Sfi1 homolog, spindle assembly associated (yeast)
+1565604_at	5822	PWP2	chr21q22.3	1	1	0	0	0	1	0	0	0	0	0	PWP2 periodic tryptophan protein homolog (yeast)
+207549_x_at	4179	CD46	chr1q32	1	1	0	0	0	1	0	0	0	0	0	CD46 molecule, complement regulatory protein
+215218_s_at	284403	WDR62	chr19q13.12	1	1	0	0	0	1	0	0	0	0	0	WD repeat domain 62
+205290_s_at	650	BMP2	chr20p12	1	1	0	0	0	1	0	0	0	0	0	bone morphogenetic protein 2
+200032_s_at	6133	RPL9	chr4p13	1	1	0	0	0	1	0	0	0	0	0	ribosomal protein L9
+224891_at	2309	FOXO3	chr6q21	1	1	0	0	0	1	0	0	0	0	0	forkhead box O3
+1569638_at	6660	SOX5	chr12p12.1	1	1	0	0	0	1	0	0	0	0	0	SRY (sex determining region Y)-box 5
+213121_at	6625	SNRNP70	chr19q13.3	1	1	0	0	0	1	0	0	0	0	0	small nuclear ribonucleoprotein 70kDa (U1)
+218058_at	30827	CXXC1	chr18q12	1	1	0	0	0	1	0	0	0	0	0	CXXC finger 1 (PHD domain)
+223617_x_at	83858	ATAD3B	chr1p36.33	1	1	0	0	0	1	0	0	0	0	0	ATPase family, AAA domain containing 3B
+209864_at	23401	FRAT2	chr10q24.1	1	1	0	0	0	1	0	0	0	0	0	frequently rearranged in advanced T-cell lymphomas 2
+236314_at	9852	EPM2AIP1	chr3p22.1	1	1	0	0	0	1	0	0	0	0	0	EPM2A (laforin) interacting protein 1
+207046_at	121504   554313   8294   8359   8360   8361   8362   8363   8364   8365   8366   8367   8368   8370	HIST1H4A /// HIST1H4B /// HIST1H4C /// HIST1H4D /// HIST1H4E /// HIST1H4F /// HIST1H4H /// HIST1H4I /// HIST1H4J /// HIST1H4K /// HIST1H4L /// HIST2H4A /// HIST2H4B /// HIST4H4	chr12p12.3 /// chr1q21 /// chr6p21.3 /// chr6p21.33 /// chr6p22-p21.3	1	1	0	0	0	1	0	0	0	0	0	histone cluster 1, H4a /// histone cluster 1, H4b /// histone cluster 1, H4c /// histone cluster 1, H4d /// histone cluster 1, H4e /// histone cluster 1, H4f /// histone cluster 1, H4h /// histone cluster 1, H4i /// histone cluster 1, H4j /// histone cluster 1, H4k /// histone cluster 1, H4l /// histone cluster 2, H4a /// histone cluster 2, H4b /// histone cluster 4, H4
+212147_at	23381	SMG5	chr1q21.2	1	1	0	0	0	1	0	0	0	0	0	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)
+220750_s_at	64175	LEPRE1	chr1p34.1	1	1	0	0	0	1	0	0	0	0	0	leucine proline-enriched proteoglycan (leprecan) 1
+224874_at	51082	POLR1D	chr13q12.2	1	1	0	0	0	1	0	0	0	0	0	polymerase (RNA) I polypeptide D, 16kDa
+205294_at	10458	BAIAP2	chr17q25	1	1	0	0	0	1	0	0	0	0	0	BAI1-associated protein 2
+1557639_at	4774	NFIA	chr1p31.3-p31.2	1	1	0	0	0	1	0	0	0	0	0	Nuclear factor 1 A-type
+215664_s_at	2044	EPHA5	chr4q13.1	1	1	0	0	0	1	0	0	0	0	0	EPH receptor A5
+204096_s_at	8178	ELL	chr19p13.1	1	1	0	0	0	1	0	0	0	0	0	elongation factor RNA polymerase II
+205252_at	7727	ZNF174	chr16p13.3	1	1	0	0	0	1	0	0	0	0	0	zinc finger protein 174
+234854_at	23195	MDN1	chr6q15	1	1	0	0	0	1	0	0	0	0	0	MDN1, midasin homolog (yeast)
+211401_s_at	2263	FGFR2	chr10q26	1	1	0	0	0	1	0	0	0	0	0	fibroblast growth factor receptor 2
+206258_at	29906	ST8SIA5	chr18q21.1	1	1	0	0	0	1	0	0	0	0	0	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5
+201465_s_at	3725	JUN	chr1p32-p31	1	1	0	0	0	1	0	0	0	0	0	jun oncogene
+230701_x_at	64147	KIF9	chr3p21.31	1	1	0	0	0	1	0	0	0	0	0	kinesin family member 9
+209100_at	7866	IFRD2	chr3p21.3	1	1	0	0	0	1	0	0	0	0	0	interferon-related developmental regulator 2
+207914_x_at	2128	EVX1	chr7p15-p14	1	1	0	0	0	1	0	0	0	0	0	even-skipped homeobox 1
+215145_s_at	26047	CNTNAP2	chr7q35-q36	1	1	0	0	0	1	0	0	0	0	0	contactin associated protein-like 2
+224783_at	283991	FAM100B	chr17q25.1	1	1	0	0	0	1	0	0	0	0	0	family with sequence similarity 100, member B
+231778_at	1747	DLX3	chr17q21	1	1	0	0	0	1	0	0	0	0	0	distal-less homeobox 3
+236491_at	10017	BCL2L10	chr15q21	1	1	0	0	0	1	0	0	0	0	0	BCL2-like 10 (apoptosis facilitator)
+206501_x_at	2115	ETV1	chr7p21.3	1	1	0	0	0	1	0	0	0	0	0	ets variant 1
+204316_at	6001	RGS10	chr10q25	1	1	0	0	0	1	0	0	0	0	0	regulator of G-protein signaling 10
+1554629_at	2045	EPHA7	chr6q16.1	1	1	0	0	0	1	0	0	0	0	0	EPH receptor A7
+218696_at	9451	EIF2AK3	chr2p12	1	1	0	0	0	1	0	0	0	0	0	eukaryotic translation initiation factor 2-alpha kinase 3
+205078_at	5281	PIGF	chr2p21-p16	1	1	0	0	0	1	0	0	0	0	0	phosphatidylinositol glycan anchor biosynthesis, class F
+211999_at	3020   3021   440926	H3F3A /// H3F3B /// LOC440926	chr17q25 /// chr1q41 /// chr2q31.1	1	1	0	0	0	1	0	0	0	0	0	H3 histone, family 3A /// H3 histone, family 3B (H3.3B) /// H3 histone, family 3A pseudogene
+201244_s_at	5894	RAF1	chr3p25	1	1	0	0	0	1	0	0	0	0	0	v-raf-1 murine leukemia viral oncogene homolog 1
+217555_at	8243	SMC1A	chrXp11.22-p11.21	1	1	0	0	0	1	0	0	0	0	0	structural maintenance of chromosomes 1A
+202970_at	8445	DYRK2	chr12q15	1	1	0	0	0	1	0	0	0	0	0	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2
+206140_at	9355	LHX2	chr9q33-q34.1	1	1	0	0	0	1	0	0	0	0	0	LIM homeobox 2
+34868_at	23381	SMG5	chr1q21.2	1	1	0	0	0	1	0	0	0	0	0	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)
+202288_at	2475	FRAP1	chr1p36.2	1	1	0	0	0	1	0	0	0	0	0	FK506 binding protein 12-rapamycin associated protein 1
+1561042_at	3688	ITGB1	chr10p11.2	1	1	0	0	0	1	0	0	0	0	0	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)
+205883_at	7704	ZBTB16	chr11q23.1	1	1	0	0	0	1	0	0	0	0	0	zinc finger and BTB domain containing 16
+208604_s_at	3200	HOXA3	chr7p15-p14	1	1	0	0	0	1	0	0	0	0	0	homeobox A3
+223587_s_at	81693	AMN	chr14q32.3	1	1	0	0	0	1	0	0	0	0	0	amnionless homolog (mouse)
+210507_s_at	10677	AVIL	chr12q14.1	1	1	0	0	0	1	0	0	0	0	0	advillin
+219520_s_at	55841	WWC3	chrXp22.32	1	1	0	0	0	1	0	0	0	0	0	WWC family member 3
+213145_at	144699	FBXL14	chr12p13.33	1	1	0	0	0	1	0	0	0	0	0	Clone 23870 mRNA sequence
+214192_at	4927	NUP88	chr17p13.2	1	1	0	0	0	1	0	0	0	0	0	Alternative 3' UTR of Nup88 mRNA
+205850_s_at	2562	GABRB3	chr15q11.2-q12	1	1	0	0	0	1	0	0	0	0	0	gamma-aminobutyric acid (GABA) A receptor, beta 3
+224775_at	55677	IWS1	chr2q14.3	1	1	0	0	0	1	0	0	0	0	0	IWS1 homolog (S. cerevisiae)
+208234_x_at	2263	FGFR2	chr10q26	1	1	0	0	0	1	0	0	0	0	0	fibroblast growth factor receptor 2
+202857_at	10330	CNPY2	chr12q15	1	1	0	0	0	1	0	0	0	0	0	canopy 2 homolog (zebrafish)
+203731_s_at	23660	ZKSCAN5	chr7q22	1	1	0	0	0	1	0	0	0	0	0	zinc finger with KRAB and SCAN domains 5
+201900_s_at	10327	AKR1A1	chr1p33-p32	1	1	0	0	0	1	0	0	0	0	0	aldo-keto reductase family 1, member A1 (aldehyde reductase)
+207517_at	3918	LAMC2	chr1q25-q31	1	1	0	0	0	1	0	0	0	0	0	laminin, gamma 2
+230628_at	57634	EP400	chr12q24.33	1	1	0	0	0	1	0	0	0	0	0	E1A binding protein p400
+200883_at	7385	UQCRC2	chr16p12	1	1	0	0	0	1	0	0	0	0	0	ubiquinol-cytochrome c reductase core protein II
+215699_x_at	9814	SFI1	chr22q12.2	1	1	0	0	0	1	0	0	0	0	0	Sfi1 homolog, spindle assembly associated (yeast)
+213604_at	6924	TCEB3	chr1p36.1	1	1	0	0	0	1	0	0	0	0	0	transcription elongation factor B (SIII), polypeptide 3 (110kDa, elongin A)
+209466_x_at	5764	PTN	chr7q33-q34	1	1	0	0	0	1	0	0	0	0	0	pleiotrophin
+229955_at	26273	FBXO3	chr11p13	1	1	0	0	0	1	0	0	0	0	0	F-box protein 3, mRNA (cDNA clone IMAGE:5296662)
+215143_at	349152	DPY19L2P2	chr7q22.1	1	1	0	0	0	1	0	0	0	0	0	dpy-19-like 2 pseudogene 2 (C. elegans)
+200094_s_at	1938	EEF2	chr19pter-q12	1	1	0	0	0	1	0	0	0	0	0	eukaryotic translation elongation factor 2
+218330_s_at	89797	NAV2	chr11p15.1	1	1	0	0	0	1	0	0	0	0	0	neuron navigator 2
+229239_x_at	28231	SLCO4A1	chr20q13.33	1	1	0	0	0	1	0	0	0	0	0	Solute carrier organic anion transporter family, member 4A1, mRNA (cDNA clone MGC:22943 IMAGE:4908245)
+219389_at	55061	SUSD4	chr1q41	1	1	0	0	0	1	0	0	0	0	0	sushi domain containing 4
+206785_s_at	3821   3822	KLRC1 /// KLRC2	chr12p13	1	1	0	0	0	1	0	0	0	0	0	killer cell lectin-like receptor subfamily C, member 1 /// killer cell lectin-like receptor subfamily C, member 2
+210967_x_at	782	CACNB1	chr17q21-q22	1	1	0	0	0	1	0	0	0	0	0	calcium channel, voltage-dependent, beta 1 subunit
+216588_at	100127893   100131085   388401   441896   6129   641900   648000   728380   728843	hCG_2015956 /// LOC100127893 /// LOC100131085 /// LOC388401 /// LOC441896 /// LOC641900 /// LOC728380 /// LOC728843 /// RPL7	chr17q21.33 /// chr1p13.3 /// chr2p22.2 /// chr5q14.1 /// chr5q34 /// chr6p22.3 /// chr8q21.11	1	1	0	0	0	1	0	0	0	0	0	hCG2015956 /// similar to ribosomal protein L7 /// hypothetical LOC100131085 /// similar to ribosomal protein L7 /// similar to ribosomal protein L7 /// similar to 60S ribosomal protein L7 /// hypothetical LOC728380 /// hypothetical LOC728843 /// ribosomal protein L7
+229789_at	220359	TIGD3	chr11q13.1	1	1	0	0	0	1	0	0	0	0	0	tigger transposable element derived 3
+1552673_at	222546	RFX6	chr6q22.2	1	1	0	0	0	1	0	0	0	0	0	regulatory factor X, 6
+1552761_at	162515	SLC16A11	chr17p13.1	1	1	0	0	0	1	0	0	0	0	0	solute carrier family 16, member 11 (monocarboxylic acid transporter 11)
+207791_s_at	5861	RAB1A	chr2p14	1	1	0	0	0	1	0	0	0	0	0	RAB1A, member RAS oncogene family
+206374_at	1850	DUSP8	chr11p15.5	1	1	0	0	0	1	0	0	0	0	0	dual specificity phosphatase 8
+236645_at	26959	HBP1	chr7q22-q31	1	1	0	0	0	0	1	0	0	0	0	HMG-box transcription factor 1
+218926_at	55892	MYNN	chr3q26.2	1	1	0	0	0	0	1	0	0	0	0	myoneurin
+216037_x_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	transcription factor 7-like 2 (T-cell specific, HMG-box)
+207267_s_at	53820	DSCR6	chr21q22.2	1	1	0	0	0	0	1	0	0	0	0	Down syndrome critical region gene 6
+206115_at	1960	EGR3	chr8p23-p21	1	1	0	0	0	0	1	0	0	0	0	early growth response 3
+202094_at	332	BIRC5	chr17q25	1	1	0	0	0	0	1	0	0	0	0	baculoviral IAP repeat-containing 5
+1556874_a_at	51320	MEX3C	chr18q21.2	1	1	0	0	0	0	1	0	0	0	0	mex-3 homolog C (C. elegans)
+230732_s_at	5596	MAPK4	chr18q12-q21	1	1	0	0	0	0	1	0	0	0	0	CDNA clone IMAGE:5301938
+212762_s_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	transcription factor 7-like 2 (T-cell specific, HMG-box)
+212312_at	598	BCL2L1	chr20q11.21	1	1	0	0	0	0	1	0	0	0	0	BCL2-like 1
+212390_at	727893   9659	LOC727893 /// PDE4DIP	chr1q12	1	1	0	0	0	0	1	0	0	0	0	similar to phosphodiesterase 4D interacting protein (myomegalin) /// phosphodiesterase 4D interacting protein
+221323_at	80329	ULBP1	chr6q25	1	1	0	0	0	0	1	0	0	0	0	UL16 binding protein 1
+241661_at	221037	JMJD1C	chr10q21.2-q21.3	1	1	0	0	0	0	1	0	0	0	0	jumonji domain containing 1C
+234716_at	100132739   7545	LOC100132739 /// ZIC1	chr3q24	1	1	0	0	0	0	1	0	0	0	0	hypothetical protein LOC100132739 /// Zic family member 1 (odd-paired homolog, Drosophila)
+202708_s_at	8349	HIST2H2BE	chr1q21-q23	1	1	0	0	0	0	1	0	0	0	0	histone cluster 2, H2be
+216990_at	2618	GART	chr21q22.1|21q22.11	1	1	0	0	0	0	1	0	0	0	0	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+238370_x_at	6146	RPL22	chr1p36.3-p36.2	1	1	0	0	0	0	1	0	0	0	0	Full open reading frame cDNA clone RZPDo834F116D for gene RPL22, ribosomal protein L22; complete cds, incl. stopcodon
+1554737_at	2201	FBN2	chr5q23-q31	1	1	0	0	0	0	1	0	0	0	0	fibrillin 2
+202307_s_at	6890	TAP1	chr6p21.3	1	1	0	0	0	0	1	0	0	0	0	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+218495_at	8409	UXT	chrXp11.23-p11.22	1	1	0	0	0	0	1	0	0	0	0	ubiquitously-expressed transcript
+212761_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	transcription factor 7-like 2 (T-cell specific, HMG-box)
+241463_at	9451	EIF2AK3	chr2p12	1	1	0	0	0	0	1	0	0	0	0	eukaryotic translation initiation factor 2-alpha kinase 3
+205578_at	4920	ROR2	chr9q22	1	1	0	0	0	0	1	0	0	0	0	receptor tyrosine kinase-like orphan receptor 2
+220081_x_at	51478	HSD17B7	chr1q23	1	1	0	0	0	0	1	0	0	0	0	hydroxysteroid (17-beta) dehydrogenase 7
+236278_at	8353	HIST1H3E	chr6p21.3	1	1	0	0	0	0	1	0	0	0	0	Full open reading frame cDNA clone RZPDo834F0435D for gene HIST1H3E, histone 1, H3e; complete cds, without stopcodon
+217287_s_at	7225	TRPC6	chr11q21-q22	1	1	0	0	0	0	1	0	0	0	0	transient receptor potential cation channel, subfamily C, member 6
+209820_s_at	10607	TBL3	chr16p13.3	1	1	0	0	0	0	1	0	0	0	0	transducin (beta)-like 3
+210626_at	8165	AKAP1	chr17q21-q23	1	1	0	0	0	0	1	0	0	0	0	A kinase (PRKA) anchor protein 1
+229944_at	4986	OPRK1	chr8q11.2	1	1	0	0	0	0	1	0	0	0	0	opioid receptor, kappa 1
+207548_at	2917	GRM7	chr3p26.1-p25.1	1	1	0	0	0	0	1	0	0	0	0	glutamate receptor, metabotropic 7
+223887_at	29933	GPR132	chr14q32.3	1	1	0	0	0	0	1	0	0	0	0	G protein-coupled receptor 132
+1560720_at	8569	MKNK1	chr1p33	1	1	0	0	0	0	1	0	0	0	0	MAP kinase interacting serine/threonine kinase 1
+205061_s_at	5393	EXOSC9	chr4q27	1	1	0	0	0	0	1	0	0	0	0	exosome component 9
+1561080_at	7296	TXNRD1	chr12q23-q24.1	1	1	0	0	0	0	1	0	0	0	0	thioredoxin reductase 1
+205249_at	1959	EGR2	chr10q21.1	1	1	0	0	0	0	1	0	0	0	0	early growth response 2 (Krox-20 homolog, Drosophila)
+235067_at	4289	MKLN1	chr7q32	1	1	0	0	0	0	1	0	0	0	0	muskelin 1, intracellular mediator containing kelch motifs
+205539_at	10677	AVIL	chr12q14.1	1	1	0	0	0	0	1	0	0	0	0	advillin
+1570627_at	6924	TCEB3	chr1p36.1	1	1	0	0	0	0	1	0	0	0	0	transcription elongation factor B (SIII), polypeptide 3 (110kDa, elongin A)
+201285_at	23608	MKRN1	chr7q34	1	1	0	0	0	0	1	0	0	0	0	makorin ring finger protein 1
+209109_s_at	7105	TSPAN6	chrXq22	1	1	0	0	0	0	1	0	0	0	0	tetraspanin 6
+1553025_at	57211	GPR126	chr6q24.1	1	1	0	0	0	0	1	0	0	0	0	G protein-coupled receptor 126
+217154_s_at	1908	EDN3	chr20q13.2-q13.3	1	1	0	0	0	0	1	0	0	0	0	endothelin 3
+217404_s_at	1280	COL2A1	chr12q13.11	1	1	0	0	0	0	1	0	0	0	0	collagen, type II, alpha 1
+216035_x_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	transcription factor 7-like 2 (T-cell specific, HMG-box)
+208228_s_at	2263	FGFR2	chr10q26	1	1	0	0	0	0	1	0	0	0	0	fibroblast growth factor receptor 2
+214298_x_at	23157	6-Sep	chrXq24	1	1	0	0	0	0	1	0	0	0	0	septin 6
+224248_x_at	80011	NIP30	chr16q13	1	1	0	0	0	0	1	0	0	0	0	NEFA-interacting nuclear protein NIP30
+212413_at	23157	6-Sep	chrXq24	1	1	0	0	0	0	1	0	0	0	0	septin 6
+226904_at	386757   6535	SLC6A10P /// SLC6A8	chr16p11.2 /// chrXq28	1	1	0	0	0	0	1	0	0	0	0	CDNA clone IMAGE:40015586 /// Creatine transporter
+219140_s_at	5950	RBP4	chr10q23-q24	1	1	0	0	0	0	1	0	0	0	0	retinol binding protein 4, plasma
+203587_at	379	ARL4D	chr17q12-q21	1	1	0	0	0	0	1	0	0	0	0	ADP-ribosylation factor-like 4D
+211580_s_at	8503	PIK3R3	chr1p34.1	1	1	0	0	0	0	1	0	0	0	0	phosphoinositide-3-kinase, regulatory subunit 3 (gamma)
+206270_at	5582	PRKCG	chr19q13.4	1	1	0	0	0	0	1	0	0	0	0	protein kinase C, gamma
+205541_s_at	23708	GSPT2	chrXp11.22	1	1	0	0	0	0	1	0	0	0	0	G1 to S phase transition 2
+226591_at	6638	SNRPN	chr15q11.2	1	1	0	0	0	0	1	0	0	0	0	small nuclear ribonucleoprotein polypeptide N
+1554512_a_at	84902	CCDC123	chr19q13.11	1	1	0	0	0	0	1	0	0	0	0	coiled-coil domain containing 123
+232436_at	10782	ZNF274	chr19qter	1	1	0	0	0	0	1	0	0	0	0	zinc finger protein 274
+219142_at	65997	RASL11B	chr4q12	1	1	0	0	0	0	1	0	0	0	0	RAS-like, family 11, member B
+228577_x_at	57489	ODF2L	chr1p22.3	1	1	0	0	0	0	1	0	0	0	0	outer dense fiber of sperm tails 2-like
+227666_at	166614	DCLK2	chr4q31.3	1	1	0	0	0	0	1	0	0	0	0	doublecortin-like kinase 2
+236094_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	CDNA FLJ90224 fis, clone NT2RM1000789, highly similar to Mus musculus transcription factor 7-like 2, T-cell specific, HMG-box (Tcf7l2), mRNA
+224206_x_at	55892	MYNN	chr3q26.2	1	1	0	0	0	0	1	0	0	0	0	myoneurin
+219347_at	55270	NUDT15	chr13q14.2	1	1	0	0	0	0	1	0	0	0	0	nudix (nucleoside diphosphate linked moiety X)-type motif 15
+226261_at	223082	ZNRF2	chr7p15.1	1	1	0	0	0	0	1	0	0	0	0	zinc and ring finger 2
+232458_at	1281	COL3A1	chr2q31	1	1	0	0	0	0	1	0	0	0	0	MRNA 3' region for pro-alpha1(III) collagen
+229883_at	2906	GRIN2D	chr19q13.1-qter	1	1	0	0	0	0	1	0	0	0	0	glutamate receptor, ionotropic, N-methyl D-aspartate 2D
+222383_s_at	59344	ALOXE3	chr17p13.1	1	1	0	0	0	0	1	0	0	0	0	arachidonate lipoxygenase 3
+225198_at	9218	VAPA	chr18p11.22	1	1	0	0	0	0	1	0	0	0	0	VAMP (vesicle-associated membrane protein)-associated protein A, 33kDa
+222074_at	7389	UROD	chr1p34	1	1	0	0	0	0	1	0	0	0	0	uroporphyrinogen decarboxylase
+231927_at	22926	ATF6	chr1q22-q23	1	1	0	0	0	0	1	0	0	0	0	ATF family member ATF6 (ATF6)
+239014_at	55749	CCAR1	chr10q21.3	1	1	0	0	0	0	1	0	0	0	0	Death inducer with SAP domain DIS
+213492_at	1280	COL2A1	chr12q13.11	1	1	0	0	0	0	1	0	0	0	0	collagen, type II, alpha 1
+235781_at	774	CACNA1B	chr9q34	1	1	0	0	0	0	1	0	0	0	0	calcium channel, voltage-dependent, N type, alpha 1B subunit
+223278_at	2706	GJB2	chr13q11-q12	1	1	0	0	0	0	1	0	0	0	0	gap junction protein, beta 2, 26kDa
+202192_s_at	8522	GAS7	chr17p13.1	1	1	0	0	0	0	1	0	0	0	0	growth arrest-specific 7
+242163_at	9967	THRAP3	chr1p34.3	1	1	0	0	0	0	1	0	0	0	0	thyroid hormone receptor associated protein 3
+224851_at	1021	CDK6	chr7q21-q22	1	1	0	0	0	0	1	0	0	0	0	cyclin-dependent kinase 6
+235342_at	50859	SPOCK3	chr4q32.3	1	1	0	0	0	0	1	0	0	0	0	sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 3
+1559342_a_at	6638	SNRPN	chr15q11.2	1	1	0	0	0	0	1	0	0	0	0	small nuclear ribonucleoprotein polypeptide N
+213322_at	221443	C6orf130	chr6p21.1	1	1	0	0	0	0	1	0	0	0	0	chromosome 6 open reading frame 130
+204492_at	9824	ARHGAP11A	chr15q13.2	1	1	0	0	0	0	1	0	0	0	0	Rho GTPase activating protein 11A
+212414_s_at	23157   84656	N-PAC /// SEPT6	chr16p13.3 /// chrXq24	1	1	0	0	0	0	1	0	0	0	0	cytokine-like nuclear factor n-pac /// septin 6
+225939_at	317649	EIF4E3	chr3p14	1	1	0	0	0	0	1	0	0	0	0	eukaryotic translation initiation factor 4E family member 3
+222015_at	1454	CSNK1E	chr22q13.1	1	1	0	0	0	0	1	0	0	0	0	casein kinase 1, epsilon
+208399_s_at	1908	EDN3	chr20q13.2-q13.3	1	1	0	0	0	0	1	0	0	0	0	endothelin 3
+228894_at	253842   2649	LOC253842 /// NR6A1	chr9q33-q34.1 /// chr9q34.11	1	1	0	0	0	0	1	0	0	0	0	hypothetical protein LOC253842 /// nuclear receptor subfamily 6, group A, member 1
+215531_s_at	2558	GABRA5	chr15q11.2-q12	1	1	0	0	0	0	1	0	0	0	0	gamma-aminobutyric acid (GABA) A receptor, alpha 5
+241980_at	4135	MAP6	chr11q13.5	1	1	0	0	0	0	1	0	0	0	0	microtubule-associated protein 6
+207704_s_at	8522	GAS7	chr17p13.1	1	1	0	0	0	0	1	0	0	0	0	growth arrest-specific 7
+211556_at	10982	MAPRE2	chr18q12.1	1	1	0	0	0	0	1	0	0	0	0	microtubule-associated protein, RP/EB family, member 2
+219335_at	64860	ARMCX5	chrXq22.1-q22.3	1	1	0	0	0	0	1	0	0	0	0	armadillo repeat containing, X-linked 5
+200696_s_at	2934	GSN	chr9q33	1	1	0	0	0	0	1	0	0	0	0	gelsolin (amyloidosis, Finnish type)
+240702_at	8925	HERC1	chr15q22	1	1	0	0	0	0	1	0	0	0	0	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1
+206444_at	5153	PDE1B	chr12q13	1	1	0	0	0	0	1	0	0	0	0	phosphodiesterase 1B, calmodulin-dependent
+220987_s_at	56672   81788	C11orf17 /// NUAK2	chr11p15.3 /// chr1q32.1	1	1	0	0	0	0	1	0	0	0	0	chromosome 11 open reading frame 17 /// NUAK family, SNF1-like kinase, 2
+216511_s_at	6934	TCF7L2	chr10q25.3	1	1	0	0	0	0	1	0	0	0	0	transcription factor 7-like 2 (T-cell specific, HMG-box)
+208449_s_at	2253	FGF8	chr10q24	1	1	0	0	0	0	1	0	0	0	0	fibroblast growth factor 8 (androgen-induced)
+239827_at	28984	C13orf15	chr13q14.11	1	1	0	0	0	0	0	1	0	0	0	RGC32 (RGC32)
+204595_s_at	6781	STC1	chr8p21-p11.2	1	1	0	0	0	0	0	1	0	0	0	stanniocalcin 1
+200980_s_at	5160	PDHA1	chrXp22.2-p22.1	1	1	0	0	0	0	0	1	0	0	0	pyruvate dehydrogenase (lipoamide) alpha 1
+231906_at	3234	HOXD8	chr2q31.1	1	1	0	0	0	0	0	1	0	0	0	homeobox D8
+1555517_at	2567	GABRG3	chr15q12	1	1	0	0	0	0	0	1	0	0	0	gamma-aminobutyric acid (GABA) A receptor, gamma 3
+221964_at	7289	TULP3	chr12p13.3	1	1	0	0	0	0	0	1	0	0	0	tubby like protein 3
+228720_at	57537	SORCS2	chr4p16.1	1	1	0	0	0	0	0	1	0	0	0	sortilin-related VPS10 domain containing receptor 2
+212909_at	116372	LYPD1	chr2q21.2	1	1	0	0	0	0	0	1	0	0	0	LY6/PLAUR domain containing 1
+230982_at	6656	SOX1	chr13q34	1	1	0	0	0	0	0	1	0	0	0	SRY (sex determining region Y)-box 1 (SOX1), mRNA
+201368_at	678	ZFP36L2	chr2p22.3-p21	1	1	0	0	0	0	0	1	0	0	0	zinc finger protein 36, C3H type-like 2
+213849_s_at	5521	PPP2R2B	chr5q31-q32	1	1	0	0	0	0	0	1	0	0	0	protein phosphatase 2 (formerly 2A), regulatory subunit B, beta isoform
+208349_at	8989	TRPA1	chr8q13	1	1	0	0	0	0	0	1	0	0	0	transient receptor potential cation channel, subfamily A, member 1
+201268_at	4830   4831   654364	NME1 /// NME1-NME2 /// NME2	chr17q21.3	1	1	0	0	0	0	0	1	0	0	0	non-metastatic cells 1, protein (NM23A) expressed in /// NME1-NME2 readthrough transcript /// non-metastatic cells 2, protein (NM23B) expressed in
+204069_at	4211	MEIS1	chr2p14-p13	1	1	0	0	0	0	0	1	0	0	0	Meis homeobox 1
+240990_at	5868	RAB5A	chr3p24-p22	1	1	0	0	0	0	0	1	0	0	0	Cervical cancer oncogene 10 protein (HCC-10)
+213030_s_at	5362	PLXNA2	chr1q32.2	1	1	0	0	0	0	0	1	0	0	0	plexin A2
+201983_s_at	1956	EGFR	chr7p12	1	1	0	0	0	0	0	1	0	0	0	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)
+1560300_a_at	63947   728656	DMRTC1 /// DMRTC1B	chrXq13.1	1	1	0	0	0	0	0	1	0	0	0	DMRT-like family C1 /// DMRT-like family C1B
+1553234_at	170692	ADAMTS18	chr16q23	1	1	0	0	0	0	0	1	0	0	0	ADAM metallopeptidase with thrombospondin type 1 motif, 18
+202155_s_at	8021	NUP214	chr9q34.1	1	1	0	0	0	0	0	1	0	0	0	nucleoporin 214kDa
+1568954_s_at	29035	C16orf72	chr16p13.2	1	1	0	0	0	0	0	1	0	0	0	chromosome 16 open reading frame 72
+206208_at	762	CA4	chr17q23	1	1	0	0	0	0	0	1	0	0	0	carbonic anhydrase IV
+203940_s_at	22846	VASH1	chr14q24.3	1	1	0	0	0	0	0	1	0	0	0	vasohibin 1
+204597_x_at	6781	STC1	chr8p21-p11.2	1	1	0	0	0	0	0	1	0	0	0	stanniocalcin 1
+227933_at	84894	LINGO1	chr15q24.3	1	1	0	0	0	0	0	1	0	0	0	leucine rich repeat and Ig domain containing 1
+212727_at	1741	DLG3	chrXq13.1	1	1	0	0	0	0	0	1	0	0	0	discs, large homolog 3 (Drosophila)
+224177_s_at	51260	CXorf26	chrXq13.3	1	1	0	0	0	0	0	1	0	0	0	chromosome X open reading frame 26
+201988_s_at	1389	CREBL2	chr12p13	1	1	0	0	0	0	0	1	0	0	0	cAMP responsive element binding protein-like 2
+201484_at	6827	SUPT4H1	chr17q21-q23	1	1	0	0	0	0	0	1	0	0	0	suppressor of Ty 4 homolog 1 (S. cerevisiae)
+204753_s_at	3131	HLF	chr17q22	1	1	0	0	0	0	0	1	0	0	0	hepatic leukemia factor
+204061_at	5613	PRKX	chrXp22.3	1	1	0	0	0	0	0	1	0	0	0	protein kinase, X-linked
+218450_at	50865	HEBP1	chr12p13.1	1	1	0	0	0	0	0	1	0	0	0	heme binding protein 1
+221194_s_at	51136	RNFT1	chr17q23.1	1	1	0	0	0	0	0	1	0	0	0	ring finger protein, transmembrane 1
+206069_s_at	33	ACADL	chr2q34-q35	1	1	0	0	0	0	0	1	0	0	0	acyl-Coenzyme A dehydrogenase, long chain
+222876_s_at	55803	ADAP2	chr17q11.2	1	1	0	0	0	0	0	1	0	0	0	ArfGAP with dual PH domains 2
+205037_at	11020	RABL4	chr22q13.1	1	1	0	0	0	0	0	1	0	0	0	RAB, member of RAS oncogene family-like 4
+226216_at	3643	INSR	chr19p13.3-p13.2	1	1	0	0	0	0	0	1	0	0	0	insulin receptor
+206209_s_at	762	CA4	chr17q23	1	1	0	0	0	0	0	1	0	0	0	carbonic anhydrase IV
+221620_s_at	79135	APOO	chrXp22.11	1	1	0	0	0	0	0	1	0	0	0	apolipoprotein O
+222188_at	51531	C9orf156	chr9q22.33	1	1	0	0	0	0	0	1	0	0	0	chromosome 9 open reading frame 156
+205608_s_at	284	ANGPT1	chr8q22.3-q23	1	1	0	0	0	0	0	1	0	0	0	angiopoietin 1
+222619_at	23528	ZNF281	chr1q32.1	1	1	0	0	0	0	0	1	0	0	0	zinc finger protein 281
+202681_at	7375	USP4	chr3p21.3	1	1	0	0	0	0	0	1	0	0	0	ubiquitin specific peptidase 4 (proto-oncogene)
+229392_s_at	5296	PIK3R2	chr19q13.2-q13.4	1	1	0	0	0	0	0	1	0	0	0	P85 beta subunit of phosphatidyl-inositol-3-kinase
+204023_at	5984	RFC4	chr3q27	1	1	0	0	0	0	0	1	0	0	0	replication factor C (activator 1) 4, 37kDa
+1554571_at	54518	APBB1IP	chr10p12.1	1	1	0	0	0	0	0	1	0	0	0	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein
+209503_s_at	5705	PSMC5	chr17q23-q25	1	1	0	0	0	0	0	1	0	0	0	proteasome (prosome, macropain) 26S subunit, ATPase, 5
+204604_at	5218	PFTK1	chr7q21-q22	1	1	0	0	0	0	0	1	0	0	0	PFTAIRE protein kinase 1
+1559891_at	8091	HMGA2	chr12q15	1	1	0	0	0	0	0	1	0	0	0	high mobility group AT-hook 2
+242854_x_at	8847	DLEU2	chr13q14.3	1	1	0	0	0	0	0	1	0	0	0	deleted in lymphocytic leukemia 2 (non-protein coding)
+244097_at	1380	CR2	chr1q32	1	1	0	0	0	0	0	1	0	0	0	complement component (3d/Epstein Barr virus) receptor 2
+231736_x_at	4257	MGST1	chr12p12.3-p12.1	1	1	0	0	0	0	0	1	0	0	0	microsomal glutathione S-transferase 1
+204212_at	10005	ACOT8	chr20q13.12	1	1	0	0	0	0	0	1	0	0	0	acyl-CoA thioesterase 8
+201422_at	10437	IFI30	chr19p13.1	1	1	0	0	0	0	0	1	0	0	0	interferon, gamma-inducible protein 30
+220116_at	3781	KCNN2	chr5q22.3	1	1	0	0	0	0	0	1	0	0	0	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2
+213110_s_at	1287	COL4A5	chrXq22	1	1	0	0	0	0	0	1	0	0	0	collagen, type IV, alpha 5
+1552714_at	200407	CREG2	chr2q11.2	1	1	0	0	0	0	0	1	0	0	0	cellular repressor of E1A-stimulated genes 2
+240337_at	387	RHOA	chr3p21.3	1	1	0	0	0	0	0	1	0	0	0	Rho mRNA (clone 12)
+204060_s_at	5613   5616	PRKX /// PRKY	chrXp22.3 /// chrYp11.2	1	1	0	0	0	0	0	1	0	0	0	protein kinase, X-linked /// protein kinase, Y-linked
+203891_s_at	1613	DAPK3	chr19p13.3	1	1	0	0	0	0	0	1	0	0	0	death-associated protein kinase 3
+207329_at	4317	MMP8	chr11q22.3	1	1	0	0	0	0	0	1	0	0	0	matrix metallopeptidase 8 (neutrophil collagenase)
+203838_s_at	10188	TNK2	chr3q29	1	1	0	0	0	0	0	1	0	0	0	tyrosine kinase, non-receptor, 2
+208272_at	8498	RANBP3	chr19p13.3	1	1	0	0	0	0	0	1	0	0	0	RAN binding protein 3
+207886_s_at	799	CALCR	chr7q21.3	1	1	0	0	0	0	0	1	0	0	0	calcitonin receptor
+213293_s_at	10346	TRIM22	chr11p15	1	1	0	0	0	0	0	1	0	0	0	tripartite motif-containing 22
+215485_s_at	3383	ICAM1	chr19p13.3-p13.2	1	1	0	0	0	0	0	1	0	0	0	intercellular adhesion molecule 1
+214366_s_at	240	ALOX5	chr10q11.2	1	1	0	0	0	0	0	1	0	0	0	arachidonate 5-lipoxygenase
+226810_at	79627	OGFRL1	chr6q13	1	1	0	0	0	0	0	1	0	0	0	opioid growth factor receptor-like 1
+225459_at	154810	AMOTL1	chr11q14.3	1	1	0	0	0	0	0	1	0	0	0	angiomotin like 1
+242410_s_at	777	CACNA1E	chr1q25-q31	1	1	0	0	0	0	0	1	0	0	0	calcium channel, voltage-dependent, R type, alpha 1E subunit
+212157_at	6383	SDC2	chr8q22-q23	1	1	0	0	0	0	0	1	0	0	0	syndecan 2
+226462_at	29091	STXBP6	chr14q12	1	1	0	0	0	0	0	1	0	0	0	syntaxin binding protein 6 (amisyn)
+218937_at	54925	ZNF434	chr16p13.3	1	1	0	0	0	0	0	1	0	0	0	zinc finger protein 434
+241902_at	283078	MKX	chr10p12.1	1	1	0	0	0	0	0	1	0	0	0	mohawk homeobox
+60084_at	1540	CYLD	chr16q12.1	1	1	0	0	0	0	0	1	0	0	0	cylindromatosis (turban tumor syndrome)
+233430_at	55633	TBC1D22B	chr6p21.2	1	1	0	0	0	0	0	1	0	0	0	CDNA FLJ39021 fis, clone NT2RP7003688, moderately similar to Gtpase activating protein for Ypt1p; Gyp1p
+211502_s_at	5218	PFTK1	chr7q21-q22	1	1	0	0	0	0	0	1	0	0	0	PFTAIRE protein kinase 1
+202716_at	5770	PTPN1	chr20q13.1-q13.2	1	1	0	0	0	0	0	1	0	0	0	protein tyrosine phosphatase, non-receptor type 1
+232275_s_at	266722	HS6ST3	chr13q32.1	1	1	0	0	0	0	0	1	0	0	0	heparan sulfate 6-O-sulfotransferase 3
+212158_at	6383	SDC2	chr8q22-q23	1	1	0	0	0	0	0	1	0	0	0	syndecan 2
+201966_at	4720	NDUFS2	chr1q23	1	1	0	0	0	0	0	1	0	0	0	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)
+216561_x_at	6660	SOX5	chr12p12.1	1	1	0	0	0	0	0	1	0	0	0	SRY (sex determining region Y)-box 5
+223049_at	2885	GRB2	chr17q24-q25	1	1	0	0	0	0	0	1	0	0	0	growth factor receptor-bound protein 2
+218039_at	51203	NUSAP1	chr15q15.1	1	1	0	0	0	0	0	1	0	0	0	nucleolar and spindle associated protein 1
+225661_at	3454	IFNAR1	chr21q22.1|21q22.11	1	1	0	0	0	0	0	1	0	0	0	interferon (alpha, beta and omega) receptor 1
+209069_s_at	3020   3021   440926	H3F3A /// H3F3B /// LOC440926	chr17q25 /// chr1q41 /// chr2q31.1	1	1	0	0	0	0	0	1	0	0	0	H3 histone, family 3A /// H3 histone, family 3B (H3.3B) /// H3 histone, family 3A pseudogene
+201483_s_at	6827	SUPT4H1	chr17q21-q23	1	1	0	0	0	0	0	1	0	0	0	suppressor of Ty 4 homolog 1 (S. cerevisiae)
+232636_at	139065	SLITRK4	chrXq27.3	1	1	0	0	0	0	0	1	0	0	0	SLIT and NTRK-like family, member 4
+231325_at	137970	UNC5D	chr8p12	1	1	0	0	0	0	0	1	0	0	0	CDNA FLJ34994 fis, clone OCBBF2011283
+242767_at	29995	LMCD1	chr3p26-p24	1	1	0	0	0	0	0	1	0	0	0	CDNA FLJ52480 complete cds, highly similar to LIM and cysteine-rich domains protein 1
+209716_at	1435	CSF1	chr1p21-p13	1	1	0	0	0	0	0	1	0	0	0	colony stimulating factor 1 (macrophage)
+209517_s_at	9070	ASH2L	chr8p11.2	1	1	0	0	0	0	0	1	0	0	0	ash2 (absent, small, or homeotic)-like (Drosophila)
+223849_s_at	4343	MOV10	chr1p13.2	1	1	0	0	0	0	0	1	0	0	0	Mov10, Moloney leukemia virus 10, homolog (mouse)
+206009_at	3680	ITGA9	chr3p21.3	1	1	0	0	0	0	0	1	0	0	0	integrin, alpha 9
+205614_x_at	4485	MST1	chr3p21	1	1	0	0	0	0	0	1	0	0	0	macrophage stimulating 1 (hepatocyte growth factor-like)
+219368_at	4674	NAP1L2	chrXq13	1	1	0	0	0	0	0	1	0	0	0	nucleosome assembly protein 1-like 2
+222427_s_at	51520	LARS	chr5q32	1	1	0	0	0	0	0	0	1	0	0	leucyl-tRNA synthetase
+216061_x_at	5155	PDGFB	chr22q12.3-q13.1|22q13.1	1	1	0	0	0	0	0	0	1	0	0	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+202441_at	10613	ERLIN1	chr10q21-q22	1	1	0	0	0	0	0	0	1	0	0	ER lipid raft associated 1
+202912_at	133	ADM	chr11p15.4	1	1	0	0	0	0	0	0	1	0	0	adrenomedullin
+229519_at	8087	FXR1	chr3q28	1	1	0	0	0	0	0	0	1	0	0	fragile X mental retardation, autosomal homolog 1
+205245_at	50855	PARD6A	chr16q22.1	1	1	0	0	0	0	0	0	1	0	0	par-6 partitioning defective 6 homolog alpha (C. elegans)
+212215_at	9581	PREPL	chr2p21	1	1	0	0	0	0	0	0	1	0	0	prolyl endopeptidase-like
+208579_x_at	54145	H2BFS	chr21q22.3	1	1	0	0	0	0	0	0	1	0	0	H2B histone family, member S
+202043_s_at	6611	SMS	chrXp22.1	1	1	0	0	0	0	0	0	1	0	0	spermine synthase
+200033_at	1655	DDX5	chr17q21	1	1	0	0	0	0	0	0	1	0	0	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5
+213538_at	6651	SON	chr21q22.1-q22.2|21q22.11	1	1	0	0	0	0	0	0	1	0	0	SON DNA binding protein
+203361_s_at	26292	MYCBP	chr1p33-p32.2	1	1	0	0	0	0	0	0	1	0	0	c-myc binding protein
+202032_s_at	4122	MAN2A2	chr15q26.1	1	1	0	0	0	0	0	0	1	0	0	mannosidase, alpha, class 2A, member 2
+213112_s_at	8878	SQSTM1	chr5q35	1	1	0	0	0	0	0	0	1	0	0	sequestosome 1
+228988_at	7552	ZNF711	chrXq21.1-q21.2	1	1	0	0	0	0	0	0	1	0	0	zinc finger protein 711
+209119_x_at	7026	NR2F2	chr15q26	1	1	0	0	0	0	0	0	1	0	0	nuclear receptor subfamily 2, group F, member 2
+201447_at	7072	TIA1	chr2p13	1	1	0	0	0	0	0	0	1	0	0	TIA1 cytotoxic granule-associated RNA binding protein
+201129_at	6432	SFRS7	chr2p22.1	1	1	0	0	0	0	0	0	1	0	0	splicing factor, arginine/serine-rich 7, 35kDa
+203957_at	1876	E2F6	chr2p25.1	1	1	0	0	0	0	0	0	1	0	0	E2F transcription factor 6
+217398_x_at	2597	GAPDH	chr12p13	1	1	0	0	0	0	0	0	1	0	0	glyceraldehyde-3-phosphate dehydrogenase
+216224_s_at	10013	HDAC6	chrXp11.23	1	1	0	0	0	0	0	0	1	0	0	histone deacetylase 6
+222428_s_at	51520	LARS	chr5q32	1	1	0	0	0	0	0	0	1	0	0	leucyl-tRNA synthetase
+201969_at	4678	NASP	chr1p34.1	1	1	0	0	0	0	0	0	1	0	0	nuclear autoantigenic sperm protein (histone-binding)
+205105_at	4124	MAN2A1	chr5q21-q22	1	1	0	0	0	0	0	0	1	0	0	mannosidase, alpha, class 2A, member 1
+AFFX-HUMGAPDH/M33197_3_at	2597	GAPDH	chr12p13	1	1	0	0	0	0	0	0	1	0	0	glyceraldehyde-3-phosphate dehydrogenase
+204101_at	4534	MTM1	chrXq28	1	1	0	0	0	0	0	0	1	0	0	myotubularin 1
+202699_s_at	9725	TMEM63A	chr1q42.12	1	1	0	0	0	0	0	0	1	0	0	transmembrane protein 63A
+207781_s_at	7552	ZNF711	chrXq21.1-q21.2	1	1	0	0	0	0	0	0	1	0	0	zinc finger protein 711
+213843_x_at	6535	SLC6A8	chrXq28	1	1	0	0	0	0	0	0	1	0	0	solute carrier family 6 (neurotransmitter transporter, creatine), member 8
+212217_at	9581	PREPL	chr2p21	1	1	0	0	0	0	0	0	1	0	0	prolyl endopeptidase-like
+235103_at	4124	MAN2A1	chr5q21-q22	1	1	0	0	0	0	0	0	1	0	0	mannosidase, alpha, class 2A, member 1
+209075_s_at	23479	ISCU	chr12q24.1	1	1	0	0	0	0	0	0	1	0	0	iron-sulfur cluster scaffold homolog (E. coli)
+205080_at	5915	RARB	chr3p24	1	1	0	0	0	0	0	0	1	0	0	retinoic acid receptor, beta
+203973_s_at	1052	CEBPD	chr8p11.2-p11.1	1	1	0	0	0	0	0	0	1	0	0	CCAAT/enhancer binding protein (C/EBP), delta
+208546_x_at	3017   3018   440686   8339   8341   8343   8344   8345   8346   8347   8349   85236   8970	HIST1H2BB /// HIST1H2BC /// HIST1H2BD /// HIST1H2BE /// HIST1H2BF /// HIST1H2BG /// HIST1H2BH /// HIST1H2BI /// HIST1H2BJ /// HIST1H2BK /// HIST1H2BN /// HIST2H2BE /// HIST2H3PS2	chr1q21-q23 /// chr1q21.1 /// chr6p21.3 /// chr6p21.33 /// chr6p22-p21.3 /// chr6p22.1	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bb /// histone cluster 1, H2bc /// histone cluster 1, H2bd /// histone cluster 1, H2be /// histone cluster 1, H2bf /// histone cluster 1, H2bg /// histone cluster 1, H2bh /// histone cluster 1, H2bi /// histone cluster 1, H2bj /// histone cluster 1, H2bk /// histone cluster 1, H2bn /// histone cluster 2, H2be /// histone cluster 2, H3, pseudogene 2
+203843_at	6197	RPS6KA3	chrXp22.2-p22.1	1	1	0	0	0	0	0	0	1	0	0	ribosomal protein S6 kinase, 90kDa, polypeptide 3
+224848_at	1021	CDK6	chr7q21-q22	1	1	0	0	0	0	0	0	1	0	0	cyclin-dependent kinase 6
+209806_at	85236	HIST1H2BK	chr6p21.33	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bk
+121_at	7849	PAX8	chr2q12-q14	1	1	0	0	0	0	0	0	1	0	0	paired box 8
+209015_s_at	10049	DNAJB6	chr7q36.3	1	1	0	0	0	0	0	0	1	0	0	DnaJ (Hsp40) homolog, subfamily B, member 6
+213453_x_at	2597	GAPDH	chr12p13	1	1	0	0	0	0	0	0	1	0	0	glyceraldehyde-3-phosphate dehydrogenase
+222881_at	10855	HPSE	chr4q21.3	1	1	0	0	0	0	0	0	1	0	0	heparanase
+207727_s_at	4595	MUTYH	chr1p34.3-p32.1	1	1	0	0	0	0	0	0	1	0	0	mutY homolog (E. coli)
+208842_s_at	26003	GORASP2	chr2q31.1-q31.2	1	1	0	0	0	0	0	0	1	0	0	golgi reassembly stacking protein 2, 55kDa
+201650_at	3728   3880	JUP /// KRT19	chr17q21 /// chr17q21.2	1	1	0	0	0	0	0	0	1	0	0	junction plakoglobin /// keratin 19
+208949_s_at	3958	LGALS3	chr14q21-q22	1	1	0	0	0	0	0	0	1	0	0	lectin, galactoside-binding, soluble, 3
+208022_s_at	8555	CDC14B	chr9q22.33	1	1	0	0	0	0	0	0	1	0	0	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+212729_at	1741	DLG3	chrXq13.1	1	1	0	0	0	0	0	0	1	0	0	discs, large homolog 3 (Drosophila)
+206622_at	7200	TRH	chr3q13.3-q21	1	1	0	0	0	0	0	0	1	0	0	thyrotropin-releasing hormone
+204200_s_at	5155	PDGFB	chr22q12.3-q13.1|22q13.1	1	1	0	0	0	0	0	0	1	0	0	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+203846_at	22954	TRIM32	chr9q33.1	1	1	0	0	0	0	0	0	1	0	0	tripartite motif-containing 32
+208527_x_at	8339   8343   8344   8346   8347	HIST1H2BC /// HIST1H2BE /// HIST1H2BF /// HIST1H2BG /// HIST1H2BI	chr6p21.3	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bc /// histone cluster 1, H2be /// histone cluster 1, H2bf /// histone cluster 1, H2bg /// histone cluster 1, H2bi
+208523_x_at	8339   8343   8344   8346   8347	HIST1H2BC /// HIST1H2BE /// HIST1H2BF /// HIST1H2BG /// HIST1H2BI	chr6p21.3	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bc /// histone cluster 1, H2be /// histone cluster 1, H2bf /// histone cluster 1, H2bg /// histone cluster 1, H2bi
+235024_at	79960	PHF17	chr4q26-q27	1	1	0	0	0	0	0	0	1	0	0	PHD finger protein 17
+201210_at	1654	DDX3X	chrXp11.3-p11.23	1	1	0	0	0	0	0	0	1	0	0	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked
+205063_at	8487	SIP1	chr14q13	1	1	0	0	0	0	0	0	1	0	0	survival of motor neuron protein interacting protein 1
+213319_s_at	8531	CSDA	chr12p13.1	1	1	0	0	0	0	0	0	1	0	0	DNA-binding protein A (dbpA) gene, 3' end
+209509_s_at	1798	DPAGT1	chr11q23.3	1	1	0	0	0	0	0	0	1	0	0	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)
+208490_x_at	8339   8343   8344   8346   8347	HIST1H2BC /// HIST1H2BE /// HIST1H2BF /// HIST1H2BG /// HIST1H2BI	chr6p21.3	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bc /// histone cluster 1, H2be /// histone cluster 1, H2bf /// histone cluster 1, H2bg /// histone cluster 1, H2bi
+226110_at	375743	PTAR1	chr9q21.11	1	1	0	0	0	0	0	0	1	0	0	protein prenyltransferase alpha subunit repeat containing 1
+1555786_s_at	404093	CUEDC1	chr17q23.2	1	1	0	0	0	0	0	0	1	0	0	CUE domain containing 1
+204214_s_at	10981	RAB32	chr6q24.3	1	1	0	0	0	0	0	0	1	0	0	RAB32, member RAS oncogene family
+215427_s_at	23174	ZCCHC14	chr16q24.2	1	1	0	0	0	0	0	0	1	0	0	zinc finger, CCHC domain containing 14
+212470_at	9043	SPAG9	chr17q21.33	1	1	0	0	0	0	0	0	1	0	0	sperm associated antigen 9
+232035_at	121504   554313   8294   8359   8360   8361   8362   8363   8364   8365   8366   8367   8368   8370	HIST1H4A /// HIST1H4B /// HIST1H4C /// HIST1H4D /// HIST1H4E /// HIST1H4F /// HIST1H4H /// HIST1H4I /// HIST1H4J /// HIST1H4K /// HIST1H4L /// HIST2H4A /// HIST2H4B /// HIST4H4	chr12p12.3 /// chr1q21 /// chr6p21.3 /// chr6p21.33 /// chr6p22-p21.3	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H4a /// histone cluster 1, H4b /// histone cluster 1, H4c /// histone cluster 1, H4d /// histone cluster 1, H4e /// histone cluster 1, H4f /// histone cluster 1, H4h /// histone cluster 1, H4i /// histone cluster 1, H4j /// histone cluster 1, H4k /// histone cluster 1, H4l /// histone cluster 2, H4a /// histone cluster 2, H4b /// histone cluster 4, H4
+214332_s_at	10102	TSFM	chr12q13-q14	1	1	0	0	0	0	0	0	1	0	0	Ts translation elongation factor, mitochondrial
+227978_s_at	284273	ZADH2	chr18q22.3	1	1	0	0	0	0	0	0	1	0	0	zinc binding alcohol dehydrogenase domain containing 2
+221248_s_at	54904	WHSC1L1	chr8p11.2	1	1	0	0	0	0	0	0	1	0	0	Wolf-Hirschhorn syndrome candidate 1-like 1
+217810_x_at	51520	LARS	chr5q32	1	1	0	0	0	0	0	0	1	0	0	leucyl-tRNA synthetase
+214455_at	8339   8343   8344   8346   8347	HIST1H2BC /// HIST1H2BE /// HIST1H2BF /// HIST1H2BG /// HIST1H2BI	chr6p21.3	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2bc /// histone cluster 1, H2be /// histone cluster 1, H2bf /// histone cluster 1, H2bg /// histone cluster 1, H2bi
+231715_s_at	29920	PYCR2	chr1q42.12	1	1	0	0	0	0	0	0	1	0	0	pyrroline-5-carboxylate reductase family, member 2
+237300_at	5684	PSMA3	chr14q23	1	1	0	0	0	0	0	0	1	0	0	Proteasome subunit C8
+206096_at	7584	ZNF35	chr3p22-p21	1	1	0	0	0	0	0	0	1	0	0	zinc finger protein 35
+233917_s_at	4343	MOV10	chr1p13.2	1	1	0	0	0	0	0	0	1	0	0	Mov10, Moloney leukemia virus 10, homolog (mouse)
+242517_at	84634	KISS1R	chr19p13.3	1	1	0	0	0	0	0	0	1	0	0	KISS1 receptor
+218942_at	79837	PIP4K2C	chr12q13.3	1	1	0	0	0	0	0	0	1	0	0	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma
+204313_s_at	1385	CREB1	chr2q34	1	1	0	0	0	0	0	0	1	0	0	cAMP responsive element binding protein 1
+225342_at	205   645619	AK3L1 /// AK3L2	chr12p11.21 /// chr1p31.3	1	1	0	0	0	0	0	0	1	0	0	adenylate kinase 3-like 1 /// adenylate kinase 3-like 2
+213534_s_at	23178	PASK	chr2q37.3	1	1	0	0	0	0	0	0	1	0	0	PAS domain containing serine/threonine kinase
+209496_at	5919	RARRES2	chr7q36.1	1	1	0	0	0	0	0	0	1	0	0	retinoic acid receptor responder (tazarotene induced) 2
+201067_at	5701	PSMC2	chr7q22.1-q22.3	1	1	0	0	0	0	0	0	1	0	0	proteasome (prosome, macropain) 26S subunit, ATPase, 2
+1554242_a_at	1690	COCH	chr14q12-q13	1	1	0	0	0	0	0	0	1	0	0	coagulation factor C homolog, cochlin (Limulus polyphemus)
+214542_x_at	8329   8330   8331   8332   8336   85235   8969	HIST1H2AG /// HIST1H2AH /// HIST1H2AI /// HIST1H2AJ /// HIST1H2AK /// HIST1H2AL /// HIST1H2AM	chr6p21.33 /// chr6p22-p21.3 /// chr6p22.1	1	1	0	0	0	0	0	0	1	0	0	histone cluster 1, H2ag /// histone cluster 1, H2ah /// histone cluster 1, H2ai /// histone cluster 1, H2aj /// histone cluster 1, H2ak /// histone cluster 1, H2al /// histone cluster 1, H2am
+213006_at	1052	CEBPD	chr8p11.2-p11.1	1	1	0	0	0	0	0	0	1	0	0	CCAAT/enhancer binding protein (C/EBP), delta
+208939_at	22929	SEPHS1	chr10p14	1	1	0	0	0	0	0	0	1	0	0	selenophosphate synthetase 1
+214948_s_at	7110	TMF1	chr3p21-p12	1	1	0	0	0	0	0	0	1	0	0	TATA element modulatory factor 1
+201141_at	10457	GPNMB	chr7p15	1	1	0	0	0	0	0	0	1	0	0	glycoprotein (transmembrane) nmb
+202595_s_at	23484	LEPROTL1	chr8p21.2-p21.1	1	1	0	0	0	0	0	0	1	0	0	leptin receptor overlapping transcript-like 1
+217805_at	3609	ILF3	chr19p13.2	1	1	0	0	0	0	0	0	1	0	0	interleukin enhancer binding factor 3, 90kDa
+200989_at	3091	HIF1A	chr14q21-q24	1	1	0	0	0	0	0	0	1	0	0	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+229947_at	51050	PI15	chr8q21.11	1	1	0	0	0	0	0	0	1	0	0	peptidase inhibitor 15
+225181_at	57492   729446	ARID1B /// LOC729446	chr6q25.1	1	0	1	0	0	0	0	0	0	1	0	AT rich interactive domain 1B (SWI1-like) /// hypothetical LOC729446
+235391_at	137392	FAM92A1	chr8q22.1	1	0	1	0	0	0	0	0	0	1	0	family with sequence similarity 92, member A1
+218260_at	79016	DDA1	chr19p13.11	1	0	1	0	0	0	0	0	0	1	0	DET1 and DDB1 associated 1
+1559307_s_at	5933	RBL1	chr20q11.2	1	0	1	0	0	0	0	0	0	1	0	retinoblastoma-like 1 (p107)
+206500_s_at	55320	C14orf106	chr14q21.3	1	0	1	0	0	0	0	0	0	1	0	chromosome 14 open reading frame 106
+232048_at	143684	FAM76B	chr11q21	1	0	1	0	0	0	0	0	0	1	0	family with sequence similarity 76, member B
+206535_at	6514	SLC2A2	chr3q26.1-q26.2	1	0	1	0	0	0	0	0	0	1	0	solute carrier family 2 (facilitated glucose transporter), member 2
+235331_x_at	84333	PCGF5	chr10q23.32	1	0	1	0	0	0	0	0	0	1	0	polycomb group ring finger 5
+202346_at	3093	UBE2K	chr4p14	1	0	1	0	0	0	0	0	0	1	0	ubiquitin-conjugating enzyme E2K (UBC1 homolog, yeast)
+227931_at	54891	INO80D	chr2q33.3	1	0	1	0	0	0	0	0	0	1	0	INO80 complex subunit D
+236620_at	55183	RIF1	chr2q23.3	1	0	1	0	0	0	0	0	0	1	0	RAP1 interacting factor homolog (yeast)
+203347_s_at	22823	MTF2	chr1p22.1	1	0	1	0	0	0	0	0	0	1	0	metal response element binding transcription factor 2
+202322_s_at	9453	GGPS1	chr1q43	1	0	1	0	0	0	0	0	0	1	0	geranylgeranyl diphosphate synthase 1
+203020_at	9910	RABGAP1L	chr1q24	1	0	1	0	0	0	0	0	0	1	0	RAB GTPase activating protein 1-like
+201151_s_at	4154	MBNL1	chr3q25	1	0	1	0	0	0	0	0	0	1	0	muscleblind-like (Drosophila)
+240786_at	4855	NOTCH4	chr6p21.3	1	0	1	0	0	0	0	0	0	1	0	Notch homolog 4 (Drosophila)
+1553750_a_at	143684	FAM76B	chr11q21	1	0	1	0	0	0	0	0	0	1	0	family with sequence similarity 76, member B
+243928_s_at	10257	ABCC4	chr13q32	1	0	1	0	0	0	0	0	0	1	0	ATP-binding cassette subfamily C member 4 variant 2 (ABCC4) mRNA, complete cds, alternatively spliced
+228011_at	137392	FAM92A1	chr8q22.1	1	0	1	0	0	0	0	0	0	1	0	family with sequence similarity 92, member A1
+224956_at	57532	NUFIP2	chr17q11.2	1	0	1	0	0	0	0	0	0	1	0	nuclear fragile X mental retardation protein interacting protein 2
+216192_at	2173	FABP7	chr6q22-q23	1	0	1	0	0	0	0	0	0	1	0	fatty acid binding protein 7, brain
+221666_s_at	29108	PYCARD	chr16p12-p11.2	1	0	1	0	0	0	0	0	0	1	0	PYD and CARD domain containing
+223426_s_at	54566	EPB41L4B	chr9q31-q32	1	0	1	0	0	0	0	0	0	1	0	erythrocyte membrane protein band 4.1 like 4B
+202301_s_at	65117	RSRC2	chr12q24.31	1	0	1	0	0	0	0	0	0	1	0	arginine/serine-rich coiled-coil 2
+211227_s_at	83259	PCDH11Y	chrYp11.2	1	0	1	0	0	0	0	0	0	1	0	protocadherin 11 Y-linked
+232946_s_at	55191	NADSYN1	chr11q13.4	1	0	1	0	0	0	0	0	0	1	0	NAD synthetase 1
+232563_at	127396	ZNF684	chr1p34.2	1	0	1	0	0	0	0	0	0	1	0	zinc finger protein 684
+225694_at	51755	CRKRS	chr17q12	1	0	1	0	0	0	0	0	0	1	0	Cdc2-related kinase, arginine/serine-rich
+223015_at	83939	EIF2A	chr3q25.1	1	0	1	0	0	0	0	0	0	1	0	eukaryotic translation initiation factor 2A, 65kDa
+231930_at	55531	ELMOD1	chr11q22.3	1	0	1	0	0	0	0	0	0	1	0	ELMO/CED-12 domain containing 1
+211498_s_at	4824	NKX3-1	chr8p21	1	0	1	0	0	0	0	0	0	1	0	NK3 homeobox 1
+226273_at	1184	CLCN5	chrXp11.23	1	0	1	0	0	0	0	0	0	1	0	chloride channel 5
+240650_at	777	CACNA1E	chr1q25-q31	1	0	1	0	0	0	0	0	0	1	0	Voltage-operated calcium channel, alpha-1 subunit
+244398_x_at	127396	ZNF684	chr1p34.2	1	0	1	0	0	0	0	0	0	1	0	zinc finger protein 684
+200069_at	9733	SART3	chr12q24.1	1	0	1	0	0	0	0	0	0	1	0	squamous cell carcinoma antigen recognized by T cells 3
+217951_s_at	23469	PHF3	chr6q12	1	0	1	0	0	0	0	0	0	1	0	PHD finger protein 3
+212533_at	7465	WEE1	chr11p15.3-p15.1	1	0	1	0	0	0	0	0	0	1	0	WEE1 homolog (S. pombe)
+227804_at	116238	TLCD1	chr17q11.2	1	0	1	0	0	0	0	0	0	1	0	TLC domain containing 1
+223556_at	3070	HELLS	chr10q24.2	1	0	1	0	0	0	0	0	0	1	0	helicase, lymphoid-specific
+214171_s_at	11338	U2AF2	chr19q13.42	1	0	1	0	0	0	0	0	0	1	0	MmRNA for large subunit of splicing factor U2AF
+218752_at	55954	ZMAT5	chr22cen-q12.3	1	0	1	0	0	0	0	0	0	1	0	zinc finger, matrin type 5
+203947_at	1479	CSTF3	chr11p13	1	0	1	0	0	0	0	0	0	1	0	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa
+230328_at	54700   653390   730092	LOC653390 /// LOC730092 /// RRN3	chr16p11.2 /// chr16p12 /// chr16p12.1	1	0	1	0	0	0	0	0	0	1	0	RRN3 RNA polymerase I transcription factor homolog (S. cerevisiae) pseudogene /// RRN3 RNA polymerase I transcription factor homolog (S. cerevisiae) pseudogene /// RRN3 RNA polymerase I transcription factor homolog (S. cerevisiae)
+201086_x_at	6651	SON	chr21q22.1-q22.2|21q22.11	1	0	1	0	0	0	0	0	0	1	0	SON DNA binding protein
+209041_s_at	7327	UBE2G2	chr21q22.3	1	0	1	0	0	0	0	0	0	1	0	ubiquitin-conjugating enzyme E2G 2 (UBC7 homolog, yeast)
+236477_at	55660	PRPF40A	chr2q23.3	1	0	1	0	0	0	0	0	0	1	0	PRP40 pre-mRNA processing factor 40 homolog A (S. cerevisiae)
+221530_s_at	79365	BHLHE41	chr12p11.23-p12.1	1	0	1	0	0	0	0	0	0	1	0	basic helix-loop-helix family, member e41
+218709_s_at	51098	IFT52	---	1	0	1	0	0	0	0	0	0	1	0	intraflagellar transport 52 homolog (Chlamydomonas)
+214499_s_at	9774	BCLAF1	chr6q22-q23	1	0	1	0	0	0	0	0	0	1	0	BCL2-associated transcription factor 1
+215342_s_at	9910	RABGAP1L	chr1q24	1	0	1	0	0	0	0	0	0	1	0	RAB GTPase activating protein 1-like
+210188_at	2551	GABPA	chr21q21-q22.1|21q21.3	1	0	1	0	0	0	0	0	0	1	0	GA binding protein transcription factor, alpha subunit 60kDa
+201833_at	3066	HDAC2	chr6q21	1	0	1	0	0	0	0	0	0	1	0	histone deacetylase 2
+230318_at	5265	SERPINA1	chr14q32.1	1	0	1	0	0	0	0	0	0	1	0	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+230430_at	954	ENTPD2	chr9q34	1	0	1	0	0	0	0	0	0	1	0	ectonucleoside triphosphate diphosphohydrolase 2
+232408_at	57732	ZFYVE28	chr4p16.3	1	0	1	0	0	0	0	0	0	1	0	zinc finger, FYVE domain containing 28
+242727_at	221079	ARL5B	chr10p12.33	1	0	1	0	0	0	0	0	0	1	0	ADP-ribosylation factor-like 5B
+220762_s_at	54584	GNB1L	chr22q11.2	1	0	1	0	0	0	0	0	0	1	0	guanine nucleotide binding protein (G protein), beta polypeptide 1-like
+222000_at	339448	C1orf174	chr1p36.32	1	0	1	0	0	0	0	0	0	1	0	chromosome 1 open reading frame 174
+212629_s_at	5586	PKN2	chr1p22.2	1	0	1	0	0	0	0	0	0	1	0	protein kinase N2
+206536_s_at	331	XIAP	chrXq25	1	0	1	0	0	0	0	0	0	1	0	X-linked inhibitor of apoptosis
+210924_at	10439	OLFM1	chr9q34.3	1	0	1	0	0	0	0	0	0	1	0	olfactomedin 1
+202654_x_at	64844	7-Mar	chr2q24.2	1	0	1	0	0	0	0	0	0	1	0	membrane-associated ring finger (C3HC4) 7
+1552263_at	5594	MAPK1	chr22q11.2|22q11.21	1	0	1	0	0	0	0	0	0	1	0	mitogen-activated protein kinase 1
+218626_at	56478	EIF4ENIF1	chr22q11.2	1	0	1	0	0	0	0	0	0	1	0	eukaryotic translation initiation factor 4E nuclear import factor 1
+208363_s_at	3631	INPP4A	chr2q11.2	1	0	1	0	0	0	0	0	0	1	0	inositol polyphosphate-4-phosphatase, type I, 107kDa
+209791_at	11240	PADI2	chr1p36.13	1	0	1	0	0	0	0	0	0	1	0	peptidyl arginine deiminase, type II
+209704_at	22823	MTF2	chr1p22.1	1	0	1	0	0	0	0	0	0	1	0	metal response element binding transcription factor 2
+216559_x_at	100128836   120364   144983   3178   391670   402112   440125   642817   643033   644037   645001   664709   728170   728643   728732   729102   729366   730246	HNRNPA1 /// HNRNPA1L2 /// HNRPA1L-2 /// LOC100128836 /// LOC120364 /// LOC391670 /// LOC402112 /// LOC440125 /// LOC642817 /// LOC643033 /// LOC644037 /// LOC645001 /// LOC728170 /// LOC728643 /// LOC728732 /// LOC729102 /// LOC729366 /// LOC730246	chr10q11.22 /// chr11p15.4 /// chr11q23.1 /// chr12q13.1 /// chr12q22 /// chr13q12.11 /// chr13q14.3 /// chr19p13.2 /// chr19q13.2 /// chr1q32.1 /// chr2q31.1 /// chr2q33.3 /// chr3p22.1 /// chr4q21.1 /// chr5q14.1 /// chr6p25.1 /// chr8q21.13 /// chrXq24	1	0	1	0	0	0	0	0	0	1	0	heterogeneous nuclear ribonucleoprotein A1 /// heterogeneous nuclear ribonucleoprotein A1-like 2 /// heterogeneous nuclear ribonucleoprotein A1 pseudogene /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// hypothetical LOC642817 /// similar to Heterogeneous nuclear ribonucleoprotein A1 (Helix-destabilizing protein) (Single-strand binding protein) (hnRNP core protein A1) (HDP-1) (Topoisomerase-inhibitor suppressed) /// hypothetical LOC644037 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// heterogeneous nuclear ribonucleoprotein A1 pseudogene /// hypothetical LOC728732 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// similar to heterogeneous nuclear ribonucleoprotein A1 /// hypothetical LOC730246
+208286_x_at	5460   5462   642559   645682	POU5F1 /// POU5F1P1 /// POU5F1P3 /// POU5F1P4	chr12p13.31 /// chr1q22 /// chr6p21.31 /// chr8q24.21	1	0	1	0	0	0	0	0	0	1	0	POU class 5 homeobox 1 /// POU class 5 homeobox 1 pseudogene 1 /// POU class 5 homeobox 1 pseudogene 3 /// POU class 5 homeobox 1 pseudogene 4
+214521_at	54626	HES2	chr1p36.31-p36.11	1	0	1	0	0	0	0	0	0	1	0	hairy and enhancer of split 2 (Drosophila)
+202069_s_at	3419	IDH3A	chr15q25.1-q25.2	1	0	1	0	0	0	0	0	0	1	0	isocitrate dehydrogenase 3 (NAD+) alpha
+219375_at	10390	CEPT1	chr1p13.3	1	0	1	0	0	0	0	0	0	1	0	choline/ethanolamine phosphotransferase 1
+1557798_at	10330	CNPY2	chr12q15	1	0	1	0	0	0	0	0	0	1	0	Saposin-like protein
+214550_s_at	23534	TNPO3	chr7q32.1	1	0	1	0	0	0	0	0	0	1	0	transportin 3
+223237_x_at	160	AP2A1	chr19q13.33	1	0	1	0	0	0	0	0	0	1	0	adaptor-related protein complex 2, alpha 1 subunit
+201930_at	4175	MCM6	chr2q21	1	0	1	0	0	0	0	0	0	1	0	minichromosome maintenance complex component 6
+1564945_at	57057	TBX20	chr7p15-p14	1	0	1	0	0	0	0	0	0	1	0	T-box 20
+1555594_a_at	4154	MBNL1	chr3q25	1	0	1	0	0	0	0	0	0	1	0	muscleblind-like (Drosophila)
+215952_s_at	4946	OAZ1	chr19p13.3	1	0	1	0	0	0	0	0	0	1	0	ornithine decarboxylase antizyme 1
+225304_s_at	126328   2527	FUT5 /// NDUFA11	chr19p13.3	1	0	1	0	0	0	0	0	0	1	0	fucosyltransferase 5 (alpha (1,3) fucosyltransferase) /// NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 11, 14.7kDa
+228859_at	91431	LOC91431	chr4q25	1	0	1	0	0	0	0	0	0	1	0	prematurely terminated mRNA decay factor-like
+223564_s_at	54584	GNB1L	chr22q11.2	1	0	1	0	0	0	0	0	0	1	0	guanine nucleotide binding protein (G protein), beta polypeptide 1-like
+218538_s_at	57380	MRS2	chr6p22.3-p22.1	1	0	1	0	0	0	0	0	0	1	0	MRS2 magnesium homeostasis factor homolog (S. cerevisiae)
+212981_s_at	9747	FAM115A	chr7q35	1	0	1	0	0	0	0	0	0	1	0	family with sequence similarity 115, member A
+223707_at	6157	RPL27A	chr11p15	1	0	1	0	0	0	0	0	0	1	0	ribosomal protein L27a
+204553_x_at	3631	INPP4A	chr2q11.2	1	0	1	0	0	0	0	0	0	1	0	inositol polyphosphate-4-phosphatase, type I, 107kDa
+1554271_a_at	91687	CENPL	chr1q25.1	1	0	1	0	0	0	0	0	0	1	0	centromere protein L
+219212_at	51182	HSPA14	chr10p13	1	0	1	0	0	0	0	0	0	1	0	heat shock 70kDa protein 14
+215718_s_at	23469	PHF3	chr6q12	1	0	1	0	0	0	0	0	0	1	0	PHD finger protein 3
+202347_s_at	3093	UBE2K	chr4p14	1	0	1	0	0	0	0	0	0	1	0	ubiquitin-conjugating enzyme E2K (UBC1 homolog, yeast)
+208720_s_at	9584	RBM39	chr20q11.22	1	0	1	0	0	0	0	0	0	1	0	RNA binding motif protein 39
+202362_at	5906	RAP1A	chr1p13.3	1	0	1	0	0	0	0	0	0	1	0	RAP1A, member of RAS oncogene family
+209632_at	5523	PPP2R3A	chr3q22.1	1	0	1	0	0	0	0	0	0	1	0	protein phosphatase 2 (formerly 2A), regulatory subunit B'', alpha
+232364_at	80204	FBXO11	chr2p16.3	1	0	1	0	0	0	0	0	0	1	0	F-box protein 11
+211423_s_at	6309	SC5DL	chr11q23.3	1	0	1	0	0	0	0	0	0	1	0	sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, S. cerevisiae)-like
+218875_s_at	26271	FBXO5	chr6q25.2	1	0	1	0	0	0	0	0	0	1	0	F-box protein 5
+231688_at	4317	MMP8	chr11q22.3	1	0	1	0	0	0	0	0	0	1	0	matrix metallopeptidase 8 (neutrophil collagenase)
+203270_at	1841   727761	DTYMK /// LOC727761	chr2q37.3	1	0	1	0	0	0	0	0	0	0	1	deoxythymidylate kinase (thymidylate kinase) /// similar to Deoxythymidylate kinase (thymidylate kinase)
+223100_s_at	11164	NUDT5	chr10p14-p13	1	0	1	0	0	0	0	0	0	0	1	nudix (nucleoside diphosphate linked moiety X)-type motif 5
+218241_at	9950	GOLGA5	chr14q32.12-q32.13	1	0	1	0	0	0	0	0	0	0	1	golgi autoantigen, golgin subfamily a, 5
+202408_s_at	26121	PRPF31	chr19q13.42	1	0	1	0	0	0	0	0	0	0	1	PRP31 pre-mRNA processing factor 31 homolog (S. cerevisiae)
+205565_s_at	2395	FXN	chr9q13-q21.1	1	0	1	0	0	0	0	0	0	0	1	frataxin
+200753_x_at	6427	SFRS2	chr17q25.2	1	0	1	0	0	0	0	0	0	0	1	splicing factor, arginine/serine-rich 2
+201158_at	4836	NMT1	chr17q21.31	1	0	1	0	0	0	0	0	0	0	1	N-myristoyltransferase 1
+200853_at	3015	H2AFZ	chr4q24	1	0	1	0	0	0	0	0	0	0	1	H2A histone family, member Z
+202407_s_at	26121	PRPF31	chr19q13.42	1	0	1	0	0	0	0	0	0	0	1	PRP31 pre-mRNA processing factor 31 homolog (S. cerevisiae)
+235537_at	54940	OCIAD1	chr4p11	1	0	1	0	0	0	0	0	0	0	1	OCIA domain containing 1
+208082_x_at	23608	MKRN1	chr7q34	1	0	1	0	0	0	0	0	0	0	1	makorin ring finger protein 1
+226882_x_at	10785	WDR4	chr21q22.3	1	0	1	0	0	0	0	0	0	0	1	WD repeat domain 4
+212656_at	10102	TSFM	chr12q13-q14	1	0	1	0	0	0	0	0	0	0	1	Ts translation elongation factor, mitochondrial
+207622_s_at	10061	ABCF2	chr7q36	1	0	1	0	0	0	0	0	0	0	1	ATP-binding cassette, sub-family F (GCN20), member 2
+1555953_at	6573	SLC19A1	chr21q22.3	1	0	1	0	0	0	0	0	0	0	1	solute carrier family 19 (folate transporter), member 1
+243296_at	10135	NAMPT	chr7q22.2	1	0	1	0	0	0	0	0	0	0	1	G0S9 mRNA, instability elements
+226547_at	7994	MYST3	chr8p11	1	0	1	0	0	0	0	0	0	0	1	MYST histone acetyltransferase (monocytic leukemia) 3
+214794_at	5036	PA2G4	chr12q13.2	1	0	1	0	0	0	0	0	0	0	1	proliferation-associated 2G4, 38kDa
+218201_at	4708	NDUFB2	chr7q34	1	0	1	0	0	0	0	0	0	0	1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa
+219953_s_at	56672	C11orf17	chr11p15.3	1	0	1	0	0	0	0	0	0	0	1	chromosome 11 open reading frame 17
+204898_at	8819	SAP30	chr4q34.1	1	0	1	0	0	0	0	0	0	0	1	Sin3A-associated protein, 30kDa
+204081_at	4900	NRGN	chr11q24	1	0	1	0	0	0	0	0	0	0	1	neurogranin (protein kinase C substrate, RC3)
+203418_at	890	CCNA2	chr4q25-q31	1	0	1	0	0	0	0	0	0	0	1	cyclin A2
+201710_at	4605	MYBL2	chr20q13.1	1	0	1	0	0	0	0	0	0	0	1	v-myb myeloblastosis viral oncogene homolog (avian)-like 2
+209971_x_at	7965	JTV1	chr7p22	1	0	1	0	0	0	0	0	0	0	1	JTV1 gene
+208676_s_at	5036	PA2G4	chr12q13.2	1	0	1	0	0	0	0	0	0	0	1	proliferation-associated 2G4, 38kDa
+211762_s_at	3838   728860	KPNA2 /// LOC728860	chr17q24.2	1	0	1	0	0	0	0	0	0	0	1	karyopherin alpha 2 (RAG cohort 1, importin alpha 1) /// karyopherin alpha-2 subunit like
+217946_s_at	10055	SAE1	chr19q13.32	1	0	1	0	0	0	0	0	0	0	1	SUMO1 activating enzyme subunit 1
+209891_at	57405	SPC25	chr2q24.3	1	0	1	0	0	0	0	0	0	0	1	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+208931_s_at	3609	ILF3	chr19p13.2	1	0	1	0	0	0	0	0	0	0	1	interleukin enhancer binding factor 3, 90kDa
+221521_s_at	51659	GINS2	chr16q24.1	1	0	1	0	0	0	0	0	0	0	1	GINS complex subunit 2 (Psf2 homolog)
+204126_s_at	8318	CDC45L	chr22q11.21	1	0	1	0	0	0	0	0	0	0	1	CDC45 cell division cycle 45-like (S. cerevisiae)
+217968_at	7260	TSSC1	chr2p25.3	1	0	1	0	0	0	0	0	0	0	1	tumor suppressing subtransferable candidate 1
+228142_at	29796	UCRC	chr22cen-q12.3	1	0	1	0	0	0	0	0	0	0	1	ubiquinol-cytochrome c reductase complex (7.2 kD)
+200659_s_at	5245	PHB	chr17q21	1	0	1	0	0	0	0	0	0	0	1	prohibitin
+202139_at	8574	AKR7A2	chr1p36.13	1	0	1	0	0	0	0	0	0	0	1	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)
+231520_at	148641	SLC35F3	chr1q42.2	1	0	1	0	0	0	0	0	0	0	1	Solute carrier family 35, member F3, mRNA (cDNA clone MGC:43868 IMAGE:5273868)
+224232_s_at	27166	PRELID1	chr5q35.3	1	0	1	0	0	0	0	0	0	0	1	PRELI domain containing 1
+208024_s_at	8214   85359	DGCR6 /// DGCR6L	chr22q11 /// chr22q11.21|22q11	1	0	1	0	0	0	0	0	0	0	1	DiGeorge syndrome critical region gene 6 /// DiGeorge syndrome critical region gene 6-like
+205346_at	6483	ST3GAL2	chr16q22.1	1	0	1	0	0	0	0	0	0	0	1	ST3 beta-galactoside alpha-2,3-sialyltransferase 2
+1554239_s_at	284273	ZADH2	chr18q22.3	1	0	1	0	0	0	0	0	0	0	1	zinc binding alcohol dehydrogenase domain containing 2
+201804_x_at	1155	TBCB	chr19q13.11-q13.12	1	0	1	0	0	0	0	0	0	0	1	tubulin folding cofactor B
+213937_s_at	24140	FTSJ1	chrXp11.23	1	0	1	0	0	0	0	0	0	0	1	FtsJ homolog 1 (E. coli)
+200658_s_at	5245	PHB	chr17q21	1	0	1	0	0	0	0	0	0	0	1	prohibitin
+213750_at	26156	RSL1D1	chr16p13.13	1	0	1	0	0	0	0	0	0	0	1	ribosomal L1 domain containing 1
+211072_x_at	10376	TUBA1B	chr12q13.12	1	0	1	0	0	0	0	0	0	0	1	tubulin, alpha 1b
+213911_s_at	3015	H2AFZ	chr4q24	1	0	1	0	0	0	0	0	0	0	1	H2A histone family, member Z
+203405_at	8624	PSMG1	chr21q22.3	1	0	1	0	0	0	0	0	0	0	1	proteasome (prosome, macropain) assembly chaperone 1
+202111_at	6522	SLC4A2	chr7q35-q36	1	0	1	0	0	0	0	0	0	0	1	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)
+1553984_s_at	1841   727761	DTYMK /// LOC727761	chr2q37.3	1	0	1	0	0	0	0	0	0	0	1	deoxythymidylate kinase (thymidylate kinase) /// similar to Deoxythymidylate kinase (thymidylate kinase)
+224163_s_at	55929	DMAP1	chr1p34	1	0	1	0	0	0	0	0	0	0	1	DNA methyltransferase 1 associated protein 1
+229508_at	11338	U2AF2	chr19q13.42	1	0	1	0	0	0	0	0	0	0	1	U2 small nuclear RNA auxiliary factor 2
+219831_at	51265	CDKL3	chr5q31	1	0	1	0	0	0	0	0	0	0	1	cyclin-dependent kinase-like 3
+202904_s_at	23658	LSM5	chr7p14.3	1	0	1	0	0	0	0	0	0	0	1	LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)
+200988_s_at	10197	PSME3	chr17q21	1	0	1	0	0	0	0	0	0	0	1	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)
+244142_at	1837	DTNA	chr18q12	1	0	1	0	0	0	0	0	0	0	1	dystrobrevin, alpha
+203515_s_at	10654	PMVK	chr1q22	1	0	1	0	0	0	0	0	0	0	1	phosphomevalonate kinase
+200831_s_at	6319	SCD	chr10q24.31	1	0	1	0	0	0	0	0	0	0	1	stearoyl-CoA desaturase (delta-9-desaturase)
+227150_at	4520	MTF1	chr1p33	1	0	1	0	0	0	0	0	0	0	1	metal-regulatory transcription factor 1
+208937_s_at	3397	ID1	chr20q11	1	0	1	0	0	0	0	0	0	0	1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein
+210859_x_at	1201	CLN3	chr16p12.1	1	0	1	0	0	0	0	0	0	0	1	ceroid-lipofuscinosis, neuronal 3
+1555618_s_at	10055	SAE1	chr19q13.32	1	0	1	0	0	0	0	0	0	0	1	SUMO1 activating enzyme subunit 1
+205393_s_at	1111	CHEK1	chr11q24-q24	1	0	1	0	0	0	0	0	0	0	1	CHK1 checkpoint homolog (S. pombe)
+2028_s_at	1869	E2F1	chr20q11.2	1	0	1	0	0	0	0	0	0	0	1	E2F transcription factor 1
+204768_s_at	2237	FEN1	chr11q12	1	0	1	0	0	0	0	0	0	0	1	flap structure-specific endonuclease 1
+218355_at	24137	KIF4A	chrXq13.1	1	0	1	0	0	0	0	0	0	0	1	kinesin family member 4A
+210000_s_at	8651	SOCS1	chr16p13.13	1	0	1	0	0	0	0	0	0	0	1	suppressor of cytokine signaling 1
+1554364_at	5527	PPP2R5C	chr14q32	1	0	1	0	0	0	0	0	0	0	1	protein phosphatase 2, regulatory subunit B', gamma isoform
+203103_s_at	27339	PRPF19	chr11q12.2	1	0	1	0	0	0	0	0	0	0	1	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)
+201088_at	3838   728860	KPNA2 /// LOC728860	chr17q24.2	1	0	1	0	0	0	0	0	0	0	1	karyopherin alpha 2 (RAG cohort 1, importin alpha 1) /// karyopherin alpha-2 subunit like
+218227_at	10101	NUBP2	chr16p13.3	1	0	1	0	0	0	0	0	0	0	1	nucleotide binding protein 2 (MinD homolog, E. coli)
+203265_s_at	6416	MAP2K4	chr17p11.2	1	0	1	0	0	0	0	0	0	0	1	mitogen-activated protein kinase kinase 4
+203775_at	10165	SLC25A13	chr7q21.3	1	0	1	0	0	0	0	0	0	0	1	solute carrier family 25, member 13 (citrin)
+221575_at	51540	SCLY	chr2q37.3	1	0	1	0	0	0	0	0	0	0	1	selenocysteine lyase
+204767_s_at	2237	FEN1	chr11q12	1	0	1	0	0	0	0	0	0	0	1	flap structure-specific endonuclease 1
+48808_at	1719	DHFR	chr5q11.2-q13.2	1	0	1	0	0	0	0	0	0	0	1	dihydrofolate reductase
+205324_s_at	24140	FTSJ1	chrXp11.23	1	0	1	0	0	0	0	0	0	0	1	FtsJ homolog 1 (E. coli)
+202329_at	1445	CSK	chr15q23-q25	1	0	1	0	0	0	0	0	0	0	1	c-src tyrosine kinase
+203950_s_at	1185	CLCN6	chr1p36	1	0	1	0	0	0	0	0	0	0	1	chloride channel 6
+211152_s_at	27429	HTRA2	chr2p12	1	0	1	0	0	0	0	0	0	0	1	HtrA serine peptidase 2
+221366_at	4825	NKX6-1	chr4q21.2-q22	1	0	1	0	0	0	0	0	0	0	1	NK6 homeobox 1
+203040_s_at	3145	HMBS	chr11q23.3	1	0	1	0	0	0	0	0	0	0	1	hydroxymethylbilane synthase
+208668_x_at	3151	HMGN2	chr1p36.1	1	0	1	0	0	0	0	0	0	0	1	high-mobility group nucleosomal binding domain 2
+209102_s_at	26959	HBP1	chr7q22-q31	1	0	1	0	0	0	0	0	0	0	1	HMG-box transcription factor 1
+223679_at	1499	CTNNB1	chr3p21	1	0	1	0	0	0	0	0	0	0	1	catenin (cadherin-associated protein), beta 1, 88kDa
+205089_at	7553	ZNF7	chr8q24	1	0	1	0	0	0	0	0	0	0	1	zinc finger protein 7

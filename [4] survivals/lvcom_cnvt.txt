@@ -1,0 +1,48 @@
+label	n.type	n.nb	n.foc	ind.g	pbs	chr	gname	x
+ERBB2	1	7	58.25	ipa	" 210930_s_at,216836_s_at"	17q11.2-q12|17q21.1	"v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)"	210930_s_at
+MYC	1	7	57	ipa	202431_s_at	8q24.21	v-myc myelocytomatosis viral oncogene homolog (avian)	202431_s_at
+PRC1	1	4	52.5	ipa	218009_s_at	15q26.1	protein regulator of cytokinesis 1	218009_s_at
+DNMT3A	1	3	46.33333333	focus	218457_s_at	2p23	DNA (cytosine-5-)-methyltransferase 3 alpha	218457_s_at
+CBX5	1	3	36	ipa	" 209715_at,212126_at"	12q13.13	"chromobox homolog 5 (HP1 alpha homolog, Drosophila)"	209715_at
+RHOA	1	3	24.33333333	ipa	200059_s_at	3p21.3	"ras homolog gene family, member A"	200059_s_at
+TGFB1	1	3	24.33333333	ipa	" 203084_at,203085_s_at"	19q13.2|19q13.1	"transforming growth factor, beta 1"	203084_at
+ESR1	1	7	18.5	ipa	" 205225_at,211233_x_at,211234_x_at,211235_s_at,211627_x_at,215551_at,215552_s_at,217163_at,217190_x_at"	6q25.1	estrogen receptor 1	211233_x_at
+STAT3	1	3	18.5	ipa	" 208991_at,208992_s_at"	17q21.31	signal transducer and activator of transcription 3 (acute-phase response factor)	"208991_at,208992_s_at"
+ERBB4	1	2	18.5	ipa	" 206794_at,214053_at"	2q33.3-q34	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	"206794_at,214053_at"
+MACF1	1	2	18.5	ipa	" 207358_x_at,208633_s_at,208634_s_at,214894_x_at,215222_x_at"	1p32-p31	microtubule-actin crosslinking factor 1	215222_x_at
+TNF	1	2	0.5	ipa	207113_s_at	6p21.3	"tumor necrosis factor (TNF superfamily, member 2)"	207113_s_at
+HDAC2	2	8	0	ipa	201833_at	6q21	histone deacetylase 2	201833_at
+HDAC1	2	8	0	ipa	201209_at	1p34	histone deacetylase 1	201209_at
+BRCA1	2	6	0	ipa	" 204531_s_at,211851_x_at"	17q21	"breast cancer 1, early onset"	204531_s_at
+TP53	2	6	0	ipa	" 201746_at,211300_s_at"	17p13.1	tumor protein p53	201746_at
+RBBP4	2	6	0	ipa	" 210371_s_at,217301_x_at"	1p35.1	retinoblastoma binding protein 4	201092_at
+RBBP7	2	6	0	ipa	201092_at	Xp22.2	retinoblastoma binding protein 7	201092_at
+MBD2	2	5	0	focus	" 202484_s_at,202485_s_at,214396_s_at,214397_at"	18q21	methyl-CpG binding domain protein 2	202485_s_at
+PLK1	2	4	0	focus	202240_at	16p12.1	polo-like kinase 1 (Drosophila)	202240_at
+TIA1	2	4	0	focus	" 201446_s_at,201447_at,201448_at,201449_at,201450_s_at"	2p13	TIA1 cytotoxic granule-associated RNA binding protein	"200073_s_at,205183_at,209330_s_at,213359_at,221480_at,221481_x_at"
+HNRNPD	2	4	0	ipa	" 200073_s_at,205183_at,209330_s_at,213359_at,221480_at,221481_x_at"	4q21.1-q21.2	"heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)"	205183_at
+ILF3	2	4	0	ipa	" 208930_s_at,208931_s_at,211375_s_at,217804_s_at,217805_at"	19p13.2	"interleukin enhancer binding factor 3, 90kDa"	217804_s_at
+BRCA2	2	3	0	ipa	" 208368_s_at,214727_at"	13q12.3	"breast cancer 2, early onset"	208368_s_at
+TIAL1	2	3	0	ipa	" 202405_at,202406_s_at,217500_at"	10q	TIA1 cytotoxic granule-associated RNA binding protein-like 1	217500_at
+ELAVL1	2	3	0	ipa	" 201726_at,201727_s_at"	19p13.2	"ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)"	"207039_at,209644_x_at,211156_at"
+CDKN2A	2	2	0	ipa	" 207039_at,209644_x_at,211156_at"	9p21	"cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)"	209644_x_at
+CHEK1	2	2	0	ipa	" 205393_s_at,205394_at"	11q24-q24	CHK1 checkpoint homolog (S. pombe)	205394_at
+KIF23	2	2	0	ipa	204709_s_at	15q23	kinesin family member 23	201518_at
+EZH2	2	2	0	ipa	203358_s_at	7q35-q36	enhancer of zeste homolog 2 (Drosophila)	203358_s_at
+CBX1	2	2	0	ipa	201518_at	17q21.32	chromobox homolog 1 (HP1 beta homolog Drosophila )	201518_at
+CBX3	2	2	0	ipa	" 200037_s_at,201091_s_at"	7p15.2	"chromobox homolog 3 (HP1 gamma homolog, Drosophila)"	"206528_at,217287_s_at"
+GOLGA4	3	1	0	focus	" 201567_s_at,215203_at"	3p22-p21.3	"golgi autoantigen, golgin subfamily a, 4"	201567_s_at
+TRPC6	3	1	0	focus	" 206528_at,217287_s_at"	11q21-q22	"transient receptor potential cation channel, subfamily C, member 6"	217287_s_at
+F2	3	1	0	ipa	205754_at	11p11	coagulation factor II (thrombin)	205754_at
+MLANA	3	1	0	ipa	" 206426_at,206427_s_at"	9p24.1	melan-A	206426_at
+CSNK1E	3	1	0	lvcom	" 202332_at,222015_at"	22q13.1	"casein kinase 1, epsilon"	209457_at
+ARHGAP5	3	1	0	focus	217936_at	14q12	Rho GTPase activating protein 5	"202269_x_at,202270_at"
+DUSP5	3	1	0	ipa	209457_at	10q25	dual specificity phosphatase 5	209457_at
+GBP1	3	1	0	ipa	" 202269_x_at,202270_at"	1p22.2	"guanylate binding protein 1, interferon-inducible, 67kDa"	209383_at
+PMAIP1	3	1	0	focus	" 204285_s_at,204286_s_at"	18q21.32	phorbol-12-myristate-13-acetate-induced protein 1	204285_s_at
+DDIT3	3	1	0	ipa	209383_at	12q13.1-q13.2	DNA-damage-inducible transcript 3	209383_at
+INHBA	3	1	0	ipa	" 204926_at,210511_s_at"	7p15-p13	"inhibin, beta A"	210511_s_at
+EED	3	1	0	ipa	" 209572_s_at,210656_at"	11q14.2-q22.3	embryonic ectoderm development	210656_at
+SILV	3	1	0	focus	209848_s_at	12q13-q14	silver homolog (mouse)	209848_s_at
+NCK1	3	1	0	focus	" 204725_s_at,211063_s_at"	3q21	NCK adaptor protein 1	204725_s_at
+SPAG9	3	1	0	focus	" 206748_s_at,212468_at,212470_at"	17q21.33	sperm associated antigen 9	NA
